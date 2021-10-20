@@ -1,2 +1,1 @@
-# TN-PS-fMRI-NamesFaces
-Names + Faces paper
+# fMRI-person-knowledge-names

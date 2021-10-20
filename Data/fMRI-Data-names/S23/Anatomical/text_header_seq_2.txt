@@ -1,0 +1,437 @@
+### ASCCONV BEGIN ###
+ulVersion                                = 0xbee332
+tSequenceFileName                        = "%SiemensSeq%\tfl"
+tProtocolName                            = "t1+AF8-mprage+AF8-CNR+AF8-pat2"
+tReferenceImage0                         = "1.3.12.2.1107.5.2.13.18805.30000017100206253732800020322"
+tReferenceImage1                         = "1.3.12.2.1107.5.2.13.18805.30000017100206253732800020321"
+tReferenceImage2                         = "1.3.12.2.1107.5.2.13.18805.30000017100206253732800020320"
+ucScanRegionPosValid                     = 0x1
+sProtConsistencyInfo.tBaselineString     = "N4_VA25A_LATEST_20040129"
+sProtConsistencyInfo.flNominalB0         = 3.95064
+sProtConsistencyInfo.flGMax              = 26
+sProtConsistencyInfo.flRiseTime          = 5
+sGRADSPEC.sEddyCompensationX.aflAmplitude[0] = 0.000402905
+sGRADSPEC.sEddyCompensationX.aflAmplitude[1] = 0.0605719
+sGRADSPEC.sEddyCompensationX.aflAmplitude[2] = 0.00282707
+sGRADSPEC.sEddyCompensationX.aflAmplitude[3] = -0.00218248
+sGRADSPEC.sEddyCompensationX.aflAmplitude[4] = 0.000799047
+sGRADSPEC.sEddyCompensationX.aflTimeConstant[0] = 1.07977
+sGRADSPEC.sEddyCompensationX.aflTimeConstant[1] = 0.154905
+sGRADSPEC.sEddyCompensationX.aflTimeConstant[2] = 0.0751925
+sGRADSPEC.sEddyCompensationX.aflTimeConstant[3] = 0.04822
+sGRADSPEC.sEddyCompensationX.aflTimeConstant[4] = 0.00199698
+sGRADSPEC.sEddyCompensationY.aflAmplitude[0] = -0.000437996
+sGRADSPEC.sEddyCompensationY.aflAmplitude[1] = 0.0289564
+sGRADSPEC.sEddyCompensationY.aflAmplitude[2] = 0.0252429
+sGRADSPEC.sEddyCompensationY.aflAmplitude[3] = -0.000240643
+sGRADSPEC.sEddyCompensationY.aflAmplitude[4] = 0.000726651
+sGRADSPEC.sEddyCompensationY.aflTimeConstant[0] = 0.277145
+sGRADSPEC.sEddyCompensationY.aflTimeConstant[1] = 0.164321
+sGRADSPEC.sEddyCompensationY.aflTimeConstant[2] = 0.162782
+sGRADSPEC.sEddyCompensationY.aflTimeConstant[3] = 0.0421203
+sGRADSPEC.sEddyCompensationY.aflTimeConstant[4] = 0.0019982
+sGRADSPEC.sEddyCompensationZ.aflAmplitude[0] = 0.00058622
+sGRADSPEC.sEddyCompensationZ.aflAmplitude[1] = 0.0322021
+sGRADSPEC.sEddyCompensationZ.aflAmplitude[2] = 0.025307
+sGRADSPEC.sEddyCompensationZ.aflAmplitude[3] = 0.000113562
+sGRADSPEC.sEddyCompensationZ.aflAmplitude[4] = 0.000161579
+sGRADSPEC.sEddyCompensationZ.aflTimeConstant[0] = 1.0443
+sGRADSPEC.sEddyCompensationZ.aflTimeConstant[1] = 0.33886
+sGRADSPEC.sEddyCompensationZ.aflTimeConstant[2] = 0.110232
+sGRADSPEC.sEddyCompensationZ.aflTimeConstant[3] = 0.00679434
+sGRADSPEC.sEddyCompensationZ.aflTimeConstant[4] = 0.00198925
+sGRADSPEC.bEddyCompensationValid         = 1
+sGRADSPEC.sB0CompensationX.aflAmplitude[0] = 0.00818726
+sGRADSPEC.sB0CompensationX.aflAmplitude[1] = -0.0566782
+sGRADSPEC.sB0CompensationX.aflAmplitude[2] = 0.106441
+sGRADSPEC.sB0CompensationX.aflTimeConstant[0] = 1.9813
+sGRADSPEC.sB0CompensationX.aflTimeConstant[1] = 0.0563419
+sGRADSPEC.sB0CompensationX.aflTimeConstant[2] = 0.000971801
+sGRADSPEC.sB0CompensationY.aflAmplitude[0] = -0.0683872
+sGRADSPEC.sB0CompensationY.aflAmplitude[1] = 0.114384
+sGRADSPEC.sB0CompensationY.aflAmplitude[2] = -0.0579243
+sGRADSPEC.sB0CompensationY.aflTimeConstant[0] = 0.526208
+sGRADSPEC.sB0CompensationY.aflTimeConstant[1] = 0.152749
+sGRADSPEC.sB0CompensationY.aflTimeConstant[2] = 0.00167443
+sGRADSPEC.sB0CompensationZ.aflAmplitude[0] = 0.0167477
+sGRADSPEC.sB0CompensationZ.aflAmplitude[1] = -0.240334
+sGRADSPEC.sB0CompensationZ.aflAmplitude[2] = 0.0125573
+sGRADSPEC.sB0CompensationZ.aflTimeConstant[0] = 1.85946
+sGRADSPEC.sB0CompensationZ.aflTimeConstant[1] = 0.229687
+sGRADSPEC.sB0CompensationZ.aflTimeConstant[2] = 0.00189304
+sGRADSPEC.bB0CompensationValid           = 1
+sGRADSPEC.sCrossTermCompensationXY.aflAmplitude[0] = 0.000398356
+sGRADSPEC.sCrossTermCompensationXY.aflTimeConstant[0] = 0.149474
+sGRADSPEC.sCrossTermCompensationXZ.aflAmplitude[0] = -0.000421619
+sGRADSPEC.sCrossTermCompensationXZ.aflTimeConstant[0] = 0.144608
+sGRADSPEC.sCrossTermCompensationYX.aflAmplitude[0] = 6.95394e-005
+sGRADSPEC.sCrossTermCompensationYX.aflTimeConstant[0] = 0.541592
+sGRADSPEC.sCrossTermCompensationYZ.aflAmplitude[0] = 0.000320406
+sGRADSPEC.sCrossTermCompensationYZ.aflTimeConstant[0] = 0.256504
+sGRADSPEC.sCrossTermCompensationZX.aflAmplitude[0] = 7.1202e-005
+sGRADSPEC.sCrossTermCompensationZX.aflTimeConstant[0] = 0.0525534
+sGRADSPEC.sCrossTermCompensationZY.aflAmplitude[0] = 0.000552503
+sGRADSPEC.sCrossTermCompensationZY.aflTimeConstant[0] = 0.136535
+sGRADSPEC.bCrossTermCompensationValid    = 1
+sGRADSPEC.lOffsetX                       = 11
+sGRADSPEC.lOffsetY                       = -27
+sGRADSPEC.lOffsetZ                       = 139
+sGRADSPEC.bOffsetValid                   = 1
+sGRADSPEC.lDelayX                        = 13
+sGRADSPEC.lDelayY                        = 13
+sGRADSPEC.lDelayZ                        = 13
+sGRADSPEC.bDelayValid                    = 1
+sGRADSPEC.flSensitivityX                 = 0.000348832
+sGRADSPEC.flSensitivityY                 = 0.000361844
+sGRADSPEC.flSensitivityZ                 = 0.000360485
+sGRADSPEC.bSensitivityValid              = 1
+sGRADSPEC.flGSWDMinRiseTime              = 11
+sGRADSPEC.alShimCurrent[0]               = 958
+sGRADSPEC.alShimCurrent[1]               = -88
+sGRADSPEC.alShimCurrent[2]               = 621
+sGRADSPEC.alShimCurrent[3]               = 301
+sGRADSPEC.alShimCurrent[4]               = -944
+sGRADSPEC.bShimCurrentValid              = 1
+sGRADSPEC.ucMode                         = 0x2
+sTXSPEC.asNucleusInfo[0].tNucleus        = "1H"
+sTXSPEC.asNucleusInfo[0].lFrequency      = 168277321
+sTXSPEC.asNucleusInfo[0].bFrequencyValid = 1
+sTXSPEC.asNucleusInfo[0].flReferenceAmplitude = 199.334
+sTXSPEC.asNucleusInfo[0].bReferenceAmplitudeValid = 1
+sTXSPEC.asNucleusInfo[0].flAmplitudeCorrection = 1
+sTXSPEC.asNucleusInfo[0].bAmplitudeCorrectionValid = 1
+sTXSPEC.asNucleusInfo[1].bFrequencyValid = 1
+sTXSPEC.asNucleusInfo[1].bReferenceAmplitudeValid = 1
+sTXSPEC.asNucleusInfo[1].bAmplitudeCorrectionValid = 1
+sTXSPEC.aRFPULSE[0].tName                = "SLoopIRns1"
+sTXSPEC.aRFPULSE[0].bAmplitudeValid      = 0x1
+sTXSPEC.aRFPULSE[0].flAmplitude          = 298.632
+sTXSPEC.aRFPULSE[1].tName                = "SRFExcit"
+sTXSPEC.aRFPULSE[1].bAmplitudeValid      = 0x1
+sTXSPEC.aRFPULSE[1].flAmplitude          = 77.5188
+sTXSPEC.lNoOfTraPulses                   = 2
+sTXSPEC.lBTB1ParallelCapacity            = 4
+sTXSPEC.lBTB1SerialCapacity              = 22
+sTXSPEC.lBTB2ParallelCapacity            = 4
+sTXSPEC.lBTB2SerialCapacity              = 22
+sTXSPEC.bBTBValid                        = 1
+sTXSPEC.flKDynMagnitudeMin               = 0.5
+sTXSPEC.flKDynMagnitudeMax               = 1.5
+sTXSPEC.flKDynMagnitudeClipLow           = 0.96
+sTXSPEC.flKDynMagnitudeClipHigh          = 1.04
+sTXSPEC.flKDynPhaseMax                   = 0.698132
+sTXSPEC.flKDynPhaseClip                  = 0.174533
+sTXSPEC.bKDynValid                       = 1
+sTXSPEC.ucRFPulseType                    = 0x1
+sTXSPEC.ucExcitMode                      = 0x2
+sTXSPEC.ucSimultaneousExcitation         = 0x1
+sRXSPEC.lGain                            = 1
+sRXSPEC.bGainValid                       = 1
+sRXSPEC.aFFT_SCALE[0].lRxChannel         = 1
+sRXSPEC.aFFT_SCALE[0].flFactor           = 0.0254536
+sRXSPEC.aFFT_SCALE[0].bValid             = 1
+sRXSPEC.aFFT_SCALE[1].lRxChannel         = 2
+sRXSPEC.aFFT_SCALE[1].flFactor           = 0.0296464
+sRXSPEC.aFFT_SCALE[1].bValid             = 1
+sRXSPEC.aFFT_SCALE[2].lRxChannel         = 3
+sRXSPEC.aFFT_SCALE[2].flFactor           = 0.0248614
+sRXSPEC.aFFT_SCALE[2].bValid             = 1
+sRXSPEC.aFFT_SCALE[3].lRxChannel         = 4
+sRXSPEC.aFFT_SCALE[3].flFactor           = 0.0264223
+sRXSPEC.aFFT_SCALE[3].bValid             = 1
+sRXSPEC.aFFT_SCALE[4].lRxChannel         = 5
+sRXSPEC.aFFT_SCALE[4].flFactor           = 0.0217005
+sRXSPEC.aFFT_SCALE[4].bValid             = 1
+sRXSPEC.aFFT_SCALE[5].lRxChannel         = 6
+sRXSPEC.aFFT_SCALE[5].flFactor           = 0.0181596
+sRXSPEC.aFFT_SCALE[5].bValid             = 1
+sRXSPEC.aFFT_SCALE[6].lRxChannel         = 7
+sRXSPEC.aFFT_SCALE[6].flFactor           = 0.0242334
+sRXSPEC.aFFT_SCALE[6].bValid             = 1
+sRXSPEC.aFFT_SCALE[7].lRxChannel         = 8
+sRXSPEC.aFFT_SCALE[7].flFactor           = 0.0205393
+sRXSPEC.aFFT_SCALE[7].bValid             = 1
+sRXSPEC.bVariCapVoltagesValid            = 1
+sRXSPEC.alDwellTime[0]                   = 13000
+sAdjFreSpec.ulMode                       = 0x1
+sAdjShimSpec.ulMode                      = 0x2
+sAdjWatSupSpec.ulMode                    = 0x1
+ucEnableNoiseAdjust                      = 0x1
+alTR[0]                                  = 2700000
+alTI[0]                                  = 1020000
+lContrasts                               = 1
+alTE[0]                                  = 4180
+acFlowComp[0]                            = 1
+lCombinedEchoes                          = 1
+sSliceArray.asSlice[0].sPosition.dSag    = -2.179889255
+sSliceArray.asSlice[0].sPosition.dCor    = -1.483018318
+sSliceArray.asSlice[0].sPosition.dTra    = -17.43341405
+sSliceArray.asSlice[0].sNormal.dSag      = 0.9981536096
+sSliceArray.asSlice[0].sNormal.dCor      = -0.04707172932
+sSliceArray.asSlice[0].sNormal.dTra      = 0.03838780909
+sSliceArray.asSlice[0].dThickness        = 176
+sSliceArray.asSlice[0].dPhaseFOV         = 224
+sSliceArray.asSlice[0].dReadoutFOV       = 256
+sSliceArray.lSize                        = 1
+sSliceArray.lSag                         = 1
+sSliceArray.lConc                        = 1
+sSliceArray.ucMode                       = 0x4
+sSliceArray.sTSat.dThickness             = 50
+sGroupArray.asGroup[0].nSize             = 1
+sGroupArray.asGroup[0].dDistFact         = 0.5
+sGroupArray.anMember[1]                  = -1
+sGroupArray.lSize                        = 1
+sGroupArray.sPSat.dThickness             = 50
+sAutoAlign.dAAMatrix[0]                  = 1
+sAutoAlign.dAAMatrix[5]                  = 1
+sAutoAlign.dAAMatrix[10]                 = 1
+sAutoAlign.dAAMatrix[15]                 = 1
+sNavigatorPara.ucRespComp                = 0x4
+sNavigatorPara.adFree[13]                = 150000
+sPrepPulses.ucFatSat                     = 0x4
+sPrepPulses.ucWaterSat                   = 0x4
+sPrepPulses.ucInversion                  = 0x2
+sPrepPulses.ucSatRecovery                = 0x1
+sPrepPulses.ucFatSatMode                 = 0x2
+sKSpace.lBaseResolution                  = 256
+sKSpace.lPhaseEncodingLines              = 224
+sKSpace.dPhaseResolution                 = 1
+sKSpace.lPartitions                      = 208
+sKSpace.lImagesPerSlab                   = 176
+sKSpace.dSliceResolution                 = 1
+sKSpace.dSliceOversamplingForDialog      = 0.1818181818
+sKSpace.ucPhasePartialFourier            = 0x10
+sKSpace.ucSlicePartialFourier            = 0x10
+sKSpace.ucAveragingMode                  = 0x2
+sKSpace.ucMultiSliceMode                 = 0x4
+sKSpace.ucDimension                      = 0x4
+sKSpace.unReordering                     = 0x1
+sFastImaging.lEPIFactor                  = 1
+sFastImaging.lTurboFactor                = 1
+sFastImaging.lSegments                   = 1
+sFastImaging.ulEnableRFSpoiling          = 0x1
+sPhysioImaging.lSignal1                  = 1
+sPhysioImaging.lMethod1                  = 1
+sPhysioImaging.lSignal2                  = 1
+sPhysioImaging.lMethod2                  = 1
+sPhysioImaging.lPhases                   = 1
+sPhysioImaging.lRetroGatedImages         = 16
+sPhysioImaging.sPhysioECG.lTriggerPulses = 1
+sPhysioImaging.sPhysioECG.lTriggerWindow = 5
+sPhysioImaging.sPhysioECG.lArrhythmiaDetection = 1
+sPhysioImaging.sPhysioECG.lCardiacGateOnThreshold = 100000
+sPhysioImaging.sPhysioECG.lCardiacGateOffThreshold = 700000
+sPhysioImaging.sPhysioPulse.lTriggerPulses = 1
+sPhysioImaging.sPhysioPulse.lTriggerWindow = 5
+sPhysioImaging.sPhysioPulse.lCardiacGateOnThreshold = 100000
+sPhysioImaging.sPhysioPulse.lCardiacGateOffThreshold = 700000
+sPhysioImaging.sPhysioExt.lTriggerPulses = 1
+sPhysioImaging.sPhysioExt.lTriggerWindow = 5
+sPhysioImaging.sPhysioExt.lCardiacGateOnThreshold = 100000
+sPhysioImaging.sPhysioExt.lCardiacGateOffThreshold = 700000
+sPhysioImaging.sPhysioResp.lRespGateThreshold = 20
+sPhysioImaging.sPhysioResp.lRespGatePhase = 2
+sPhysioImaging.sPhysioResp.dGatingRatio  = 0.3
+sSpecPara.lPhaseCyclingType              = 1
+sSpecPara.lPhaseEncodingType             = 1
+sSpecPara.lRFExcitationBandwidth         = 1
+sSpecPara.ucRemoveOversampling           = 0x1
+sSpecPara.lDecouplingType                = 1
+sSpecPara.lNOEType                       = 1
+sSpecPara.lExcitationType                = 1
+sSpecPara.lSpectralSuppression           = 1
+sDiffusion.ulMode                        = 0x1
+sAngio.ucPCFlowMode                      = 0x2
+sAngio.ucTOFInflow                       = 0x4
+sRawFilter.lSlope_256                    = 25
+sRawFilter.ucOn                          = 0x1
+sRawFilter.ucMode                        = 0x1
+sPat.lAccelFactPE                        = 2
+sPat.lAccelFact3D                        = 1
+sPat.lRefLinesPE                         = 24
+sPat.ucPATMode                           = 0x2
+sPat.ucRefScanMode                       = 0x2
+ucEnableIntro                            = 0x1
+ucDisableChangeStoreImages               = 0x1
+ucReconstructionMode                     = 0x1
+ucPHAPSMode                              = 0x1
+ucDixon                                  = 0x1
+lAverages                                = 1
+adFlipAngleDegree[0]                     = 7
+lScanTimeSec                             = 335
+lTotalScanTimeSec                        = 336
+dRefSNR                                  = 278440.4568
+dRefSNR_VOI                              = 235603.4635
+tdefaultEVAProt                          = "%SiemensEvaDefProt%\Inline\Inline.evp"
+tcurrentEVAProt                          = "%CURRENTEVAPROT%\EVA35A.tmp"
+sCOIL_SELECT_MEAS.asList[0].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[0].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[0].sCoilElementID.tElement = "PH1"
+sCOIL_SELECT_MEAS.asList[0].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[0].lRxChannelConnected = 1
+sCOIL_SELECT_MEAS.asList[1].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[1].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[1].sCoilElementID.tElement = "PH2"
+sCOIL_SELECT_MEAS.asList[1].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[1].lRxChannelConnected = 2
+sCOIL_SELECT_MEAS.asList[2].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[2].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[2].sCoilElementID.tElement = "PH3"
+sCOIL_SELECT_MEAS.asList[2].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[2].lRxChannelConnected = 3
+sCOIL_SELECT_MEAS.asList[3].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[3].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[3].sCoilElementID.tElement = "PH4"
+sCOIL_SELECT_MEAS.asList[3].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[3].lRxChannelConnected = 4
+sCOIL_SELECT_MEAS.asList[4].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[4].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[4].sCoilElementID.tElement = "PH8"
+sCOIL_SELECT_MEAS.asList[4].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[4].lRxChannelConnected = 5
+sCOIL_SELECT_MEAS.asList[5].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[5].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[5].sCoilElementID.tElement = "PH5"
+sCOIL_SELECT_MEAS.asList[5].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[5].lRxChannelConnected = 6
+sCOIL_SELECT_MEAS.asList[6].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[6].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[6].sCoilElementID.tElement = "PH6"
+sCOIL_SELECT_MEAS.asList[6].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[6].lRxChannelConnected = 7
+sCOIL_SELECT_MEAS.asList[7].sCoilElementID.tCoilID = "8_Channel_Head"
+sCOIL_SELECT_MEAS.asList[7].sCoilElementID.lCoilCopy = 1
+sCOIL_SELECT_MEAS.asList[7].sCoilElementID.tElement = "PH7"
+sCOIL_SELECT_MEAS.asList[7].lElementSelected = 1
+sCOIL_SELECT_MEAS.asList[7].lRxChannelConnected = 8
+sCOIL_SELECT_MEAS.sCOILPLUGS.aulPlugId[0] = 0xff
+sCOIL_SELECT_MEAS.sCOILPLUGS.aulPlugId[1] = 0x87
+sCOIL_SELECT_MEAS.sCOILPLUGS.aulPlugId[2] = 0xee
+sCOIL_SELECT_MEAS.sCOILPLUGS.aulPlugId[3] = 0xee
+sCOIL_SELECT_MEAS.sCOILPLUGS.aulPlugId[4] = 0x88
+sCOIL_SELECT_MEAS.sCOILPLUGS.auiNmbrOfNibbles[0] = 0x2
+sCOIL_SELECT_MEAS.sCOILPLUGS.auiNmbrOfNibbles[1] = 0x2
+sCOIL_SELECT_MEAS.sCOILPLUGS.auiNmbrOfNibbles[2] = 0x2
+sCOIL_SELECT_MEAS.sCOILPLUGS.auiNmbrOfNibbles[3] = 0x2
+sCOIL_SELECT_MEAS.sCOILPLUGS.auiNmbrOfNibbles[4] = 0x2
+sEFISPEC.bEFIDataValid                   = 1
+### ASCCONV END ###
+
+
+*** Parameters extracted using MATLAB's dicominfo ***
+
+Filename:1.3.12.2.1107.5.2.13.18805.30000017100206253732800020325.DCM
+FileModDate:09-Oct-2017 10:38:59
+FileSize:156808
+Format: DICOM
+FormatVersion: 3
+Width: 224
+Height: 256
+BitDepth: 12
+ColorType: MONOCHROME2
+AccessionNumber: 201710050910
+AcquisitionDate: 20171005
+AcquisitionMatrix: 0\256\224\0
+AcquisitionNumber: 1
+AcquisitionTime: 101149.940010
+AngioFlag: N
+BitsAllocated: 16
+BitsStored: 12
+Columns: 224
+ContentDate: 20171005
+ContentTime: 101733.328000
+DateOfLastCalibration: 20170123
+DeviceSerialNumber: 18805
+EchoNumber: 0
+EchoTime: 4.18
+EchoTrainLength: 1
+FileMetaInformationVersion: 00\01
+FlipAngle: 7
+FrameOfReferenceUID: 1.3.12.2.1107.5.2.13.18805.20171005100923531.0.0.0
+HighBit: 11
+ImageOrientationPatient: 0.04710640087525\0.9988898773121\1.273915046e-008\0.03834516625646\-0.0018082974756\-0.9992629174972
+ImagePositionPatient: -99.70242852182\-109.00845045592\107.11330673335
+ImageType: ORIGINAL\PRIMARY\M\ND
+ImagedNucleus: 1H
+ImagingFrequency: 168.277321
+ImplementationClassUID: 1.2.40.0.13.1.1
+ImplementationVersionName: dcm4che-2.0
+InPlanePhaseEncodingDirection: ROW
+InstanceNumber: 1
+InstitutionAddress: StreetNoStreet, Center for Mind Brain Sciences, District, ZIP, Italy
+InstitutionName: Mattarello Imaging Center
+InversionTime: 1020
+LargestImagePixelValue: 35
+MRAcquisitionType: 3D
+MagneticFieldStrength: 3.95063996315
+Manufacturer: SIEMENS
+ManufacturerModelName: MedSpec_4T
+MediaStorageSOPClassUID: 1.2.840.10008.5.1.4.1.1.4
+MediaStorageSOPInstanceUID: 1.3.12.2.1107.5.2.13.18805.30000017100206253732800020325
+Modality: MR
+NumberOfAverages: 1
+NumberOfPhaseEncodingSteps: 224
+OperatorName: FRATTI
+PatientAge: 026Y
+PatientBirthDate: 19910227
+PatientID: 19910227SMDL
+PatientName: 19910227SMDL_201710050910
+PatientPosition: HFS
+PatientSex: F
+PatientWeight: 53
+PercentPhaseFieldOfView: 87.5
+PercentSampling: 100
+PerformedProcedureStepDescription: LNIF_Fairhall_Scott^EightChannel
+PerformedProcedureStepID: MR20171005100921
+PerformedProcedureStepStartDate: 20171005
+PerformedProcedureStepStartTime: 100921.359000
+PerformingPhysicianName: BONINSEGNA CLAUDIO
+PhotometricInterpretation: MONOCHROME2
+PixelBandwidth: 150
+PixelRepresentation: 0
+PixelSpacing: 1\1
+PositionReferenceIndicator: null
+ProtocolName: t1_mprage_CNR_pat2
+ReferringPhysicianName: FAISCO003M2Z
+RepetitionTime: 2700
+RequestedProcedureDescription: LNIF_Fairhall_Scott EightChannel
+Rows: 256
+SAR: 0.0455804541707
+SOPClassUID: 1.2.840.10008.5.1.4.1.1.4
+SOPInstanceUID: 1.3.12.2.1107.5.2.13.18805.30000017100206253732800020325
+SamplesPerPixel: 1
+ScanOptions: IR
+ScanningSequence: IR\GR
+SequenceName: tfl3d1_ns
+SequenceVariant: SP\MP
+SeriesDate: 20171005
+SeriesDescription: t1_mprage_CNR_pat2
+SeriesInstanceUID: 1.3.12.2.1107.5.2.13.18805.30000017100206253732800020324
+SeriesNumber: 2
+SeriesTime: 101733.281000
+SliceLocation: -90.275286214074
+SliceThickness: 1
+SmallestImagePixelValue: 4
+SoftwareVersion: syngo MR 2004A 4VA25A
+SpecificCharacterSet: ISO_IR 100
+StationName: MEDSPEC
+StudyDate: 20171005
+StudyDescription: LNIF_Fairhall_Scott^EightChannel
+StudyID: 2
+StudyInstanceUID: 1.3.12.2.1107.5.2.13.18805.30000017100206243104600000025
+StudyTime: 100921.359000
+TimeOfLastCalibration: 151159.000000
+TransferSyntaxUID: 1.2.840.10008.1.2
+TransmitCoilName: 8_Channel_Head
+VariableFlipAngleFlag: N
+WindowCenter: 32
+WindowCenterWidthExplanation: Algo1
+WindowWidth: 84
+dBdt: 0
+
+
+*** End of Parameters extracted using MATLAB's dicominfo ***
+
+Additional Information
+sagittal,2.2
+End of Additional Information
