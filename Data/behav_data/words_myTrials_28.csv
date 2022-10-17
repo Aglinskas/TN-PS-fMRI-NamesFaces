@@ -1,0 +1,641 @@
+TaskName,taskIntruct,filepath,blockNum,trialnum,fmriRun,fmriBlock,word,Stim,StimType,time_presented,TR,resp,RT,response
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_11.jpg,3,1,1,1,Mike Tyson,Mike\nTyson,1,12.5120642456905,5.00482569827618,,1.61572180161693,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_05.jpg,3,2,1,1,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,15.6606326190167,6.26425304760669,,1.90628085033586,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_14.jpg,3,3,1,1,Hillary Clinton,Hillary\nClinton,1,19.1092869669355,7.64371478677422,,1.6778908422084,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_08.jpg,3,4,1,1,Justin Bieber,Justin\nBieber,1,22.3245472432518,8.92981889730072,,1.00233072415449,4
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_28 (1).jpg,3,5,1,1,Rihanna,Rihanna,1,24.856908336541,9.94276333461639,,0.5109333162236,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_46.jpg,3,6,1,1,Angelina Jolie,Angelina\nJolie,1,27.3725664057483,10.9490265622993,,0.354764532273293,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_72.jpg,3,7,1,1,Britney Spears,Britney\nSpears,1,29.8882509944815,11.9553003977926,,0.739434963001258,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_21.jpg,3,8,1,1,Matt Damon,Matt\nDamon,1,32.4039685187554,12.9615874075022,,1.04415329997028,3
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_16.jpg,6,1,1,2,Tom Cruise,Tom\nCruise,1,47.5147315967315,19.0058926386926,,0.00151802900018083,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_33.jpg,6,2,1,2,Angelina Jolie,Angelina\nJolie,1,50.0304572479572,20.0121828991829,,0.252945806065327,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/im_05.jpg,6,3,1,2,Silvio Berlusconi,Silvio\nBerlusconi,1,52.5461739167622,21.0184695667049,,0.317287309123458,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_03.jpg,6,4,1,2,Sabrina Ferilli,Sabrina\nFerilli,1,55.0618157320669,22.0247262928267,,0.244074596860628,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_24.jpg,6,5,1,2,George Bush,George\nBush,1,57.5774802172891,23.0309920869156,,0.69060994909978,2
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_28.jpg,6,6,1,2,Michael Jackson,Michael\nJackson,1,60.0932242610888,24.0372897044355,,0.577015270114316,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_07.jpg,6,7,1,2,Jim Carrey,Jim\nCarrey,1,62.6088819025617,25.0435527610247,,0.741855511356334,2
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_06.jpg,6,8,1,2,Paolo Bonolis,Paolo\nBonolis,1,65.1245724795754,26.0498289918301,,0.526271867915966,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Barack Obama/selected/im_12.jpg,12,1,1,3,Barack Obama,Barack\nObama,1,80.0189092775563,32.0075637110225,,0.00149407588014583,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Robin Williams/selected/im_13.jpg,12,2,1,3,Robin Williams,Robin\nWilliams,1,82.5344450147568,33.0137780059027,,0.437003293553971,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Robin Williams/selected/im_13.jpg,12,3,1,3,Robin Williams,Robin\nWilliams,1,85.0501574062191,34.0200629624876,,0.00146926729121333,21
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Donald Trump/selected/im_14.jpg,12,4,1,3,Donald Trump,Donald\nTrump,1,87.565923692202,35.0263694768808,,0.167685957483627,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Justin Bieber/selected/im_38.jpg,12,5,1,3,Justin Bieber,Justin\nBieber,1,90.0814791051798,36.0325916420719,,0.0924663159239572,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Michael Jackson/selected/im_08.jpg,12,6,1,3,Michael Jackson,Michael\nJackson,1,92.5971889302364,37.0388755720945,,0.056903203730144,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Daniel Radcliffe/selected/im_16.jpg,12,7,1,3,Daniel Radcliffe,Daniel\nRadcliffe,1,95.1128641088153,38.0451456435261,,0.142953505283003,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgio Napolitano/selected/im_07.jpg,12,8,1,3,Giorgio Napolitano,Giorgio\nNapolitano,1,97.6286008811321,39.0514403524528,,0.0878604730742154,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_07 (1).jpg,9,1,1,4,Rihanna,Rihanna,1,112.506215406989,45.0024861627957,,0.00149535908349208,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_58.jpg,9,2,1,4,Donald Trump,Donald\nTrump,1,115.021898712519,46.0087594850076,,0.61523204585319,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_13.jpg,9,3,1,4,Paris Hilton,Paris\nHilton,1,117.537466957526,47.0149867830103,,0.639383634886144,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_32.jpg,9,4,1,4,Justin Bieber,Justin\nBieber,1,120.053173360708,48.0212693442831,,0.845486120021633,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_32.jpg,9,5,1,4,Cameron Diaz,Cameron\nDiaz,1,122.568844689678,49.0275378758713,,0.890553060439743,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_16.jpg,9,6,1,4,George Clooney,George\nClooney,1,125.084516874117,50.0338067496468,,0.65602420976029,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_71.jpg,9,7,1,4,Matteo Salvini,Matteo\nSalvini,1,127.600260062449,51.0401040249795,,0.85988707814704,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_65.jpg,9,8,1,4,Angelino Alfano,Angelino\nAlfano,1,130.115913426579,52.0463653706316,,0.844202489413874,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_03.jpg,5,1,1,5,Brad Pitt,Brad\nPitt,1,145.010104367167,58.0040417468666,,0.00149621455238957,1
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_38.jpg,5,2,1,5,Paolo Bonolis,Paolo\nBonolis,1,147.525815903161,59.0103263612644,,0.792217374566462,1
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_31.jpg,5,3,1,5,Julia Roberts,Julia\nRoberts,1,150.041527439154,60.0166109756617,,0.296720133453164,1
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_30.jpg,5,4,1,5,Angelina Jolie,Angelina\nJolie,1,152.557301424355,61.0229205697418,,0.481682278968947,1
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_13.jpg,5,5,1,5,Rihanna,Rihanna,1,155.072912015056,62.0291648060225,,0.806471619829608,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_02.jpg,5,6,1,5,Sandra Bullock,Sandra\nBullock,1,157.588586338166,63.0354345352665,,0.870808845545071,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_06.jpg,5,7,1,5,Justin Bieber,Justin\nBieber,1,160.104296163223,64.0417184652892,,0.855605457889396,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_13.jpg,5,8,1,5,Robin Williams,Robin\nWilliams,1,162.61993027931,65.0479721117241,,0.570437572180708,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Angelino Alfano/selected/im_73.jpg,13,1,1,6,Angelino Alfano,Angelino\nAlfano,1,177.514175969887,71.0056703879549,,0.00151546259439783,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Robin Williams/selected/im_85.jpg,13,2,1,6,Robin Williams,Robin\nWilliams,1,180.029797253946,72.0119189015782,,0.00149621455148008,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Barack Obama/selected/im_03.jpg,13,3,1,6,Barack Obama,Barack\nObama,1,182.545614012575,73.0182456050301,,0.127515719235817,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Barack Obama/selected/im_03.jpg,13,4,1,6,Barack Obama,Barack\nObama,1,185.06120706617,74.024482826468,,0.00151802900018083,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Jim Carrey/selected/im_37.jpg,13,5,1,6,Jim Carrey,Jim\nCarrey,1,187.57690320373,75.0307612814919,,0.286684631506432,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgia Meloni/selected/im_24.jpg,13,6,1,6,Giorgia Meloni,Giorgia\nMeloni,1,190.092557423328,76.0370229693312,,0.00153000556019833,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgia Meloni/selected/im_24.jpg,13,7,1,6,Giorgia Meloni,Giorgia\nMeloni,1,192.608297617519,77.0433190470078,,0.00144616963916633,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Donald Trump/selected/im_64.jpg,13,8,1,6,Donald Trump,Donald\nTrump,1,195.123936866418,78.0495747465673,,0.102050558193696,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arena di Verona.jpg,16,1,1,7,Arena di Verona,Arena\ndi Verona,2,210.018205226913,84.0072820907651,,0.00152401728064433,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Pantheon.jpg,16,2,1,7,Pantheon,Pantheon,2,212.533935583216,85.0135742332863,,0.524959579109236,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Torre di Pisa.jpg,16,3,1,7,Torre di Pisa,Torre\ndi Pisa,2,215.049508961033,86.0198035844132,,0.189109457205632,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Tower Bridge.jpg,16,4,1,7,Tower Bridge,Tower\nBridge,2,217.565214081013,87.026085632405,,0.393426151674248,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piramidi di Ghiza.jpg,16,5,1,7,Piramidi di Ghiza,Piramidi\ndi Ghiza,2,220.080874288891,88.0323497155565,,0.00148466572591133,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Notre Dame.jpg,16,6,1,7,Notre Dame,Notre\nDame,2,222.596625604175,89.0386502416699,,0.00143761495382932,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Altare della Patria.jpg,16,7,1,7,Altare della Patria,Altare\ndella Patria,2,225.112307626502,90.0449230506008,,0.00650926044818334,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Altare della Patria.jpg,16,8,1,7,Altare della Patria,Altare\ndella Patria,2,227.627978955473,91.0511915821891,,0.00159630437519809,21
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_47.jpg,1,1,1,8,Michelle Hunziker,Michelle\nHunziker,1,242.522276829633,97.0089107318534,,0.00153556610712258,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_15.jpg,1,2,1,8,Matteo Renzi,Matteo\nRenzi,1,245.037883142992,98.0151532571967,,0.921627528979116,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_15.jpg,1,3,1,8,Michelle Obama,Michelle\nObama,1,247.553533940716,99.0214135762864,,0.906466487018406,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_31.jpg,1,4,1,8,Britney Spears,Britney\nSpears,1,250.069225800932,100.027690320373,,0.87221694683285,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_01.jpg,1,5,1,8,George Clooney,George\nClooney,1,252.584928354506,101.033971341802,,0.856663672526338,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_41.jpg,1,6,1,8,Mike Tyson,Mike\nTyson,1,255.100565036999,102.0402260148,,0.80039052140819,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_25.jpg,1,7,1,8,Robin Williams,Robin\nWilliams,1,257.616299670644,103.046519868258,,0.365295350527958,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_12.jpg,1,8,1,8,Barack Obama,Barack\nObama,1,260.131982548441,104.052793019376,,0.81160314812405,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_06.jpg,7,1,1,9,Justin Bieber,Justin\nBieber,1,275.009490568458,110.003796227383,,1.23528508490472,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_16.jpg,7,2,1,9,Johnny Depp,Johnny\nDepp,1,277.775084477522,111.110033791009,,0.679489712990289,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_33.jpg,7,3,1,9,Michael Jackson,Michael\nJackson,1,280.29080242953,112.116320971812,,0.664151589032372,1
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_14.jpg,7,4,1,9,Angelino Alfano,Angelino\nAlfano,1,282.806472903032,113.122589161213,,0.608656486590917,4
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_05.jpg,7,5,1,9,Sabrina Ferilli,Sabrina\nFerilli,1,285.322137388254,114.128854955302,,0.631032978313669,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_13.jpg,7,6,1,9,Matt Damon,Matt\nDamon,1,287.837840797296,115.135136318918,,0.617602121561504,4
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_30.jpg,7,7,1,9,Giorgia Meloni,Giorgia\nMeloni,1,290.353502288378,116.141400915351,,0.601638222336078,4
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_29.jpg,7,8,1,9,Cameron Diaz,Cameron\nDiaz,1,292.869250181787,117.147700072715,,0.585859959792288,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_28.jpg,2,1,1,10,Michelle Obama,Michelle\nObama,1,307.513519825484,123.005407930194,,0.00155096454091108,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/Silvio Berlusconi_6.jpg,2,2,1,10,Silvio Berlusconi,Silvio\nBerlusconi,1,310.029197570469,124.011679028187,,0.443000983788806,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_06.jpg,2,3,1,10,Donald Trump,Donald\nTrump,1,312.544930920912,125.017972368365,,0.206791137345135,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_01.jpg,2,4,1,10,Mike Tyson,Mike\nTyson,1,315.060578296761,126.024231318705,,0.711739595363724,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_10.jpg,2,5,1,10,Tom Cruise,Tom\nCruise,1,317.576281278069,127.030512511228,,0.816623893237193,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_09.jpg,2,6,1,10,Hillary Clinton,Hillary\nClinton,1,320.0919346422,128.03677385688,,0.640537662005045,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_12.jpg,2,7,1,10,Bill Clinton,Bill\nClinton,1,322.607636340305,129.043054536122,,0.266700457676052,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_31.jpg,2,8,1,10,Justin Bieber,Justin\nBieber,1,325.123315796227,130.049326318491,,0.371374310278952,4
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Angelina Jolie/selected/im_46.jpg,11,1,1,11,Angelina Jolie,Angelina\nJolie,1,340.017516146969,136.007006458788,,1.16765601608313,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Hillary Clinton/selected/im_14.jpg,11,2,1,11,Hillary Clinton,Hillary\nClinton,1,342.71650156123,137.086600624492,,0.019162496257195,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Hillary Clinton/selected/im_14.jpg,11,3,1,11,Hillary Clinton,Hillary\nClinton,1,345.232143804268,138.092857521707,,0.00144959151384683,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Silvio Berlusconi/selected/Silvio Berlusconi_8.jpg,11,4,1,11,Silvio Berlusconi,Silvio\nBerlusconi,1,347.747864322682,139.099145729073,,0.00249839599564439,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Silvio Berlusconi/selected/Silvio Berlusconi_8.jpg,11,5,1,11,Silvio Berlusconi,Silvio\nBerlusconi,1,350.263526669232,140.105410667693,,0.00144232003094658,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/George Clooney/selected/im_17.jpg,11,6,1,11,George Clooney,George\nClooney,1,352.779254031396,141.111701612558,,0.00148038838233333,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Sandra Bullock/selected/im_24.jpg,11,7,1,11,Sandra Bullock,Sandra\nBullock,1,355.294921938492,142.117968775397,,0.00144830831141007,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Brad Pitt/selected/im_10.jpg,11,8,1,11,Brad Pitt,Brad\nPitt,1,357.810605671756,143.124242268702,,0.108551691689172,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_19.jpg,10,1,1,12,Michelle Hunziker,Michelle\nHunziker,1,372.5215329997,149.00861319988,,0.00146969502475258,1
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_14.jpg,10,2,1,12,Donald Trump,Donald\nTrump,1,375.037203900936,150.014881560374,,0.843264468112466,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_31.jpg,10,3,1,12,Justin Bieber,Justin\nBieber,1,377.552935112708,151.021174045083,,0.747599127421381,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_16.jpg,10,4,1,12,Bill Gates,Bill\nGates,1,380.06857478934,152.027429915736,,0.591476966508708,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_01.jpg,10,5,1,12,Mike Tyson,Mike\nTyson,1,382.584301723768,153.033720689507,,0.615764147310983,1
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_01.jpg,10,6,1,12,Filippo Inzaghi,Filippo\nInzaghi,1,385.099981607425,154.03999264297,,0.180748535010025,1
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_09.jpg,10,7,1,12,Julia Roberts,Julia\nRoberts,1,387.615648659053,155.046259463621,,0.705008340818495,1
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_41.jpg,10,8,1,12,Giorgio Napolitano,Giorgio\nNapolitano,1,390.1313246931,156.05252987724,,0.709051285341957,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/House of Parliament.jpg,15,1,1,13,House of Parliament,House\nof Parliament,2,405.00888575217,162.003554300868,,0.00149578681703133,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/House of Parliament.jpg,15,2,1,13,House of Parliament,House\nof Parliament,2,407.524567774498,163.009827109799,,0.00145215791962983,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arco di Costantino.jpg,15,3,1,13,Arco di Costantino,Arco\ndi Costantino,2,410.040263484323,164.016105393729,,0.00747850635252689,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arco di Costantino.jpg,15,4,1,13,Arco di Costantino,Arco\ndi Costantino,2,412.555983575003,165.022393430001,,0.0720415757723458,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arco di Costantino.jpg,15,5,1,13,Arco di Costantino,Arco\ndi Costantino,2,415.07166859147,166.028667436588,,0.0163231960314079,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piramidi di Ghiza.jpg,15,6,1,13,Piramidi di Ghiza,Piramidi\ndi Ghiza,2,417.587363445827,167.034945378331,,0.00151118525172933,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Taj Mahal.jpg,15,7,1,13,Taj Mahal,Taj\nMahal,2,420.102986013088,168.041194405235,,0.0074844946320809,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Altare della Patria.jpg,15,8,1,13,Altare della Patria,Altare\ndella Patria,2,422.618694127208,169.047477650883,,0.0516750074857555,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_22.jpg,4,1,1,14,Paolo Bonolis,Paolo\nBonolis,1,437.512930407631,175.005172163052,,1.24849608623117,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_01.jpg,4,2,1,14,Tom Cruise,Tom\nCruise,1,440.29514607126,176.118058428504,,0.655951067196838,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_14.jpg,4,3,1,14,Angelino Alfano,Angelino\nAlfano,1,442.810817827965,177.124327131186,,0.435584071175072,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_17.jpg,4,4,1,14,Bill Gates,Bill\nGates,1,445.326560588562,178.130624235425,,0.619845587921191,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_30 (1).jpg,4,5,1,14,Britney Spears,Britney\nSpears,1,447.842214380426,179.136885752171,,0.604453141708291,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_35.jpg,4,6,1,14,Fiorello,Fiorello,1,450.357890842209,180.143156336883,,0.508419521792348,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_26.jpg,4,7,1,14,Robin Williams,Robin\nWilliams,1,452.873716583258,181.149486633303,,0.213522819623904,1
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_79.jpg,4,8,1,14,Cameron Diaz,Cameron\nDiaz,1,455.389262158347,182.155704863339,,0.537643611788553,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Muraglia Cinese.jpg,14,1,1,15,Muraglia Cinese,Muraglia\nCinese,2,470.016928867787,188.006771547115,,0.00154369305801083,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Versailles.jpg,14,2,1,15,Versailles,Versailles,2,472.532577099106,189.013030839642,,0.0251186962659631,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Notre Dame.jpg,14,3,1,15,Notre Dame,Notre\nDame,2,475.048265537448,190.019306214979,,0.00147354463388183,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ara Pacis.jpg,14,4,1,15,Ara Pacis,Ara\nPacis,2,477.564011292185,191.025604516874,,0.0241609991880978,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piramidi di Ghiza.jpg,14,5,1,15,Piramidi di Ghiza,Piramidi\ndi Ghiza,2,480.079648830147,192.031859532059,,0.00147696650856233,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/House of Parliament.jpg,14,6,1,15,House of Parliament,House\nof Parliament,2,482.595392446212,193.038156978485,,0.00455023739323224,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/House of Parliament.jpg,14,7,1,15,House of Parliament,House\nof Parliament,2,485.111072329868,194.044428931947,,0.0497082852125459,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Louvre.jpg,14,8,1,15,Louvre,Louvre,2,487.626711578767,195.050684631507,,0.00159715984500508,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Donald Trump/selected/im_57.jpg,8,1,1,16,Donald Trump,Donald\nTrump,1,502.520957269344,201.008382907738,,1.68034090422952,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Romano Prodi/selected/im_17.jpg,8,2,1,16,Romano Prodi,Romano\nProdi,1,505.736315069079,202.294526027632,,0.214567774499301,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Angelina Jolie/selected/im_15.jpg,8,3,1,16,Angelina Jolie,Angelina\nJolie,1,508.252134394114,203.300853757646,,0.199068394713322,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Mike Tyson/selected/im_41.jpg,8,4,1,16,Mike Tyson,Mike\nTyson,1,510.767699217246,204.307079686898,,0.165910432439887,4
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Julia Roberts/selected/im_104.jpg,8,5,1,16,Julia Roberts,Julia\nRoberts,1,513.2834227298,205.31336909192,,0.150235681594495,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Tom Cruise/selected/im_06.jpg,8,6,1,16,Tom Cruise,Tom\nCruise,1,515.799074382993,206.319629753197,,0.135612729372042,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Matteo Salvini/selected/im_31.jpg,8,7,1,16,Matteo Salvini,Matteo\nSalvini,1,518.314813721716,207.325925488686,,0.120088968732489,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Paolo Bonolis/selected/im_16.jpg,8,8,1,16,Paolo Bonolis,Paolo\nBonolis,1,520.830483767483,208.332193506993,,0.104196501133629,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Palazzo vecchio.jpg,14,9,2,17,Palazzo vecchio,Palazzo\nvecchio,2,12.5121882886351,5.00487531545405,,0.00339706574322918,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Palazzo vecchio.jpg,14,10,2,17,Palazzo vecchio,Palazzo\nvecchio,2,15.0275191411092,6.01100765644369,,0.0108772830317321,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Palazzo vecchio.jpg,14,11,2,17,Palazzo vecchio,Palazzo\nvecchio,2,17.543237520852,7.01729500834081,,0.0558052098040207,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Torre di Pisa.jpg,14,12,2,17,Torre di Pisa,Torre\ndi Pisa,2,20.0588074767957,8.02352299071827,,0.00146712861987908,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte di Brooklyn .jpg,14,13,2,17,Ponte di Brooklyn,Ponte\ndi Brooklyn,2,22.5745314170836,9.02981256683342,,0.00145942940162058,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Castel SantAngelo.jpg,14,14,2,17,Castel SantAngelo,Castel\nSantAngelo,2,25.0902433808114,10.0360973523246,,0.0486594807298388,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Castel SantAngelo.jpg,14,15,2,17,Castel SantAngelo,Castel\nSantAngelo,2,27.605868514479,11.0423474057916,,0.0929282689594402,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Campidoglio.jpg,14,16,2,17,Campidoglio,Campidoglio,2,30.1215351383717,12.0486140553487,,0.00146199580740358,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_16.jpg,10,9,2,18,Jim Carrey,Jim\nCarrey,1,45.0158321570643,18.0063328628257,,1.38354891141626,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_01.jpg,10,10,2,18,George Clooney,George\nClooney,1,47.9312994567772,19.1725197827109,,0.538725779546439,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_24.jpg,10,11,2,18,George Bush,George\nBush,1,50.4469673638732,20.1787869455493,,0.523209290388877,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_11.jpg,10,12,2,18,Matteo Salvini,Matteo\nSalvini,1,52.9626502416695,21.1850600966678,,0.507182086487774,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_50.jpg,10,13,2,18,Michael Jackson,Michael\nJackson,1,55.4783596389925,22.191343855597,,0.491751144189038,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_39.jpg,10,14,2,18,Paris Hilton,Paris\nHilton,1,57.9940382394461,23.1976152957785,,0.47641344796557,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_09.jpg,10,15,2,18,Matt Damon,Matt\nDamon,1,60.5097313828646,24.2038925531459,,0.460594978399968,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_21.jpg,10,16,2,18,Daniel Radcliffe,Daniel\nRadcliffe,1,63.02550280166,25.210201120664,,0.444937336926159,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/im_08.jpg,7,9,2,19,Silvio Berlusconi,Silvio\nBerlusconi,1,77.519837460969,31.0079349843876,,1.06103811112462,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_24.jpg,7,10,2,19,Sandra Bullock,Sandra\nBullock,1,80.1187463107917,32.0474985243167,,0.8526998588477,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_36.jpg,7,11,2,19,Roberto Maroni,Roberto\nMaroni,1,82.6344206339027,33.0537682535611,,0.437493477052158,4
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_10.jpg,7,12,2,19,Hillary Clinton,Hillary\nClinton,1,85.1501334530985,34.0600533812394,,0.721672441079136,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_71.jpg,7,13,2,19,Matteo Salvini,Matteo\nSalvini,1,87.6658107703497,35.0663243081399,,0.706401899140474,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_02 (1).jpg,7,14,2,19,Rihanna,Rihanna,1,90.1815051969716,36.0726020787886,,0.630301552675519,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_18.jpg,7,15,2,19,Fiorello,Fiorello,1,92.6971953462507,37.0788781385003,,0.774869327174201,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_05.jpg,7,16,2,19,Michelle Hunziker,Michelle\nHunziker,1,95.2129415287227,38.0851766114891,,0.487656871551735,2
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_23.jpg,6,9,2,20,Britney Spears,Britney\nSpears,1,110.007161127508,44.0028644510032,,0.00152401728064433,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_16.jpg,6,10,2,20,Paris Hilton,Paris\nHilton,1,112.522817913512,45.0091271654048,,0.839319047007848,2
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_42.jpg,6,11,2,20,Michelle Obama,Michelle\nObama,1,115.038481115531,46.0153924462124,,0.68336413020188,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_14.jpg,6,12,2,20,Matteo Renzi,Matteo\nRenzi,1,117.554140040207,47.0216560160829,,0.74831643782818,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_73.jpg,6,13,2,20,Angelino Alfano,Angelino\nAlfano,1,120.069840455109,48.0279361820438,,0.892552290517415,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_17.jpg,6,14,2,20,Giorgia Meloni,Giorgia\nMeloni,1,122.585570383678,49.0342281534711,,0.286861285769191,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_14.jpg,6,15,2,20,Matteo Salvini,Matteo\nSalvini,1,125.101222464605,50.0404889858419,,0.252309765173777,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_24.jpg,6,16,2,20,Donald Trump,Donald\nTrump,1,127.616954104111,51.0467816416443,,0.376801830702789,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_12.jpg,3,9,2,21,Daniel Radcliffe,Daniel\nRadcliffe,1,142.511138628684,57.0044554514734,,0.00164506608507509,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_19.jpg,3,10,2,21,Julia Roberts,Julia\nRoberts,1,145.026830916635,58.010732366654,,0.304266221823127,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_04.jpg,3,11,2,21,Robin Williams,Robin\nWilliams,1,147.542544163565,59.0170176654261,,0.149337439582268,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_77.jpg,3,12,2,21,Matteo Salvini,Matteo\nSalvini,1,150.058195816759,60.0232783267034,,0.613792292228027,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_06.jpg,3,13,2,21,Barack Obama,Barack\nObama,1,152.573844048077,61.0295376192309,,0.317710766072196,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_10.jpg,3,14,2,21,Cameron Diaz,Cameron\nDiaz,1,155.089599640703,62.0358398562814,,0.302137388253868,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_27.jpg,3,15,2,21,Bill Clinton,Bill\nClinton,1,157.605297061466,63.0421188245862,,0.586678215492611,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_16.jpg,3,16,2,21,Roberto Maroni,Roberto\nMaroni,1,160.120929038882,64.0483716155526,,0.492598058086514,4
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte di Rialto.jpg,16,9,2,22,Ponte di Rialto,Ponte\ndi Rialto,2,175.015228196245,70.0060912784978,,0.00150134736304608,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte di Rialto.jpg,16,10,2,22,Ponte di Rialto,Ponte\ndi Rialto,2,177.530793874845,71.0123175499379,,0.00144488643582008,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mole Antonelliana.jpg,16,11,2,22,Mole Antonelliana,Mole\nAntonelliana,2,180.046515676462,72.0186062705849,,0.0172714829541292,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Duomo di Milano.jpg,16,12,2,22,Duomo di Milano,Duomo\ndi Milano,2,182.562213524959,73.0248854099835,,0.162205825740784,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arco di Costantino.jpg,16,13,2,22,Arco di Costantino,Arco\ndi Costantino,2,185.0778420805,74.0311368322,,0.0859523504004756,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Colosseo.jpg,16,14,2,22,Colosseo,Colosseo,2,187.593554044228,75.0374216176911,,0.0507609393043822,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Colosseo.jpg,16,15,2,22,Colosseo,Colosseo,2,190.109224945464,76.0436899781857,,0.175710680525299,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piazza San Marco .jpg,16,16,2,22,Piazza San Marco,Piazza\nSan Marco,2,192.62490782326,77.0499631293042,,0.0398691133059401,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_06.jpg,4,9,2,23,Michael Jackson,Michael\nJackson,1,207.519240343899,83.0076961375595,,0.00155182000889909,22
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_03.jpg,4,10,2,23,George Bush,George\nBush,1,210.034934770521,84.0139739082082,,0.440656572137414,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_03.jpg,4,11,2,23,Barack Obama,Barack\nObama,1,212.550490611232,85.0201962444928,,0.784984815432836,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_18.jpg,4,12,2,23,Hillary Clinton,Hillary\nClinton,1,215.066173061295,86.0264692245179,,0.469523503999881,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_08.jpg,4,13,2,23,Sandra Bullock,Sandra\nBullock,1,217.581870482057,87.0327481928227,,0.514050216005671,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_36.jpg,4,14,2,23,Laura Pausini,Laura\nPausini,1,220.097571324693,88.0390285298774,,0.858141922238246,1
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_01.jpg,4,15,2,23,Paris Hilton,Paris\nHilton,1,222.613247786475,89.0452991145899,,0.842361948757571,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_10.jpg,4,16,2,23,Mike Tyson,Mike\nTyson,1,225.129023910347,90.0516095641389,,0.527410924333708,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_08.jpg,2,9,2,24,Michael Jackson,Michael\nJackson,1,240.006507121776,96.0026028487104,,0.00151204071971733,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_17.jpg,2,10,2,24,Laura Pausini,Laura\nPausini,1,242.522173317935,97.008869327174,,0.716142692160247,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_05.jpg,2,11,2,24,Sandra Bullock,Sandra\nBullock,1,245.037870738697,98.0151482954789,,0.420248941357386,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_12.jpg,2,12,2,24,Michelle Hunziker,Michelle\nHunziker,1,247.553511698533,99.0214046794132,,0.36431669446938,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_12.jpg,2,13,2,24,Angelino Alfano,Angelino\nAlfano,1,250.069274562642,100.027709825057,,0.70890671115103,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_14.jpg,2,14,2,24,Angelina Jolie,Angelina\nJolie,1,252.584894135763,101.033957654305,,0.713930878137944,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_01.jpg,2,15,2,24,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,255.100576158091,102.040230463236,,0.698469138970722,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_16.jpg,2,16,2,24,Barack Obama,Barack\nObama,1,257.616271012447,103.046508404979,,0.802160058171467,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/George Bush/selected/im_85.jpg,8,9,2,25,George Bush,George\nBush,1,272.510477779204,109.004191111682,,1.57062363659679,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Daniel Radcliffe/selected/im_56.jpg,8,10,2,25,Daniel Radcliffe,Daniel\nRadcliffe,1,275.609261302879,110.243704521151,,0.341970571880665,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Johnny Depp/selected/im_16.jpg,8,11,2,25,Johnny Depp,Johnny\nDepp,1,278.124951452158,111.249980580863,,0.226502416698168,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Silvio Berlusconi/selected/im_05.jpg,8,12,2,25,Silvio Berlusconi,Silvio\nBerlusconi,1,280.640623208863,112.256249283545,,0.271360622781685,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Bill Gates/selected/im_23.jpg,8,13,2,25,Bill Gates,Bill\nGates,1,283.156354420634,113.262541768253,,1.38560631335804,4
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Britney Spears/selected/im_24.jpg,8,14,2,25,Britney Spears,Britney\nSpears,1,286.071840540656,114.428736216262,,0.00152701142087608,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Hillary Clinton/selected/im_31.jpg,8,15,2,25,Hillary Clinton,Hillary\nClinton,1,288.587586295394,115.435034518157,,0.00143290987580258,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Angelino Alfano/selected/im_12.jpg,8,16,2,25,Angelino Alfano,Angelino\nAlfano,1,291.103222550152,116.441289020061,,1.04982805081545,4
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Sandra Bullock/selected/im_04.jpg,13,9,2,26,Sandra Bullock,Sandra\nBullock,1,305.014522006929,122.005808802772,,1.75989991017559,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Sandra Bullock/selected/im_04.jpg,13,10,2,26,Sandra Bullock,Sandra\nBullock,1,308.313203302108,123.325281320843,,0.0722460327642693,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Sandra Bullock/selected/im_04.jpg,13,11,2,26,Sandra Bullock,Sandra\nBullock,1,310.828890029514,124.331556011806,,0.135738910988948,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/George Clooney/selected/im_15.jpg,13,12,2,26,George Clooney,George\nClooney,1,313.344597288165,125.337838915266,,0.00149407587923633,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Angelina Jolie/selected/im_22.jpg,13,13,2,26,Angelina Jolie,Angelina\nJolie,1,315.860280165961,126.344112066384,,0.107574318833031,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Matteo Renzi/selected/im_16.jpg,13,14,2,26,Matteo Renzi,Matteo\nRenzi,1,318.375930963685,127.350372385474,,0.00145729073119583,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgio Napolitano/selected/im_41.jpg,13,15,2,26,Giorgio Napolitano,Giorgio\nNapolitano,1,320.891679712563,128.356671885025,,0.00146370674610807,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgio Napolitano/selected/im_41.jpg,13,16,2,26,Giorgio Napolitano,Giorgio\nNapolitano,1,323.407345053253,129.362938021301,,0.0448432353823591,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgio Napolitano/selected/im_07.jpg,12,9,2,27,Giorgio Napolitano,Giorgio\nNapolitano,1,337.518492664357,135.007397065743,,0.00154668719733309,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgio Napolitano/selected/im_07.jpg,12,10,2,27,Giorgio Napolitano,Giorgio\nNapolitano,1,340.03416527653,136.013666110612,,0.158076051156968,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Fiorello/selected/im_35.jpg,12,11,2,27,Fiorello,Fiorello,1,342.549888789084,137.019955515634,,0.0623799135973968,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Britney Spears/selected/im_23.jpg,12,12,2,27,Britney Spears,Britney\nSpears,1,345.065545575088,138.026218230035,,0.00146541768208408,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Matteo Renzi/selected/im_14.jpg,12,13,2,27,Matteo Renzi,Matteo\nRenzi,1,347.581273364985,139.032509345994,,0.00144445870228083,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Bill Gates/selected/im_09.jpg,12,14,2,27,Bill Gates,Bill\nGates,1,350.09690020959,140.038760083836,,0.00650926044727385,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Bill Gates/selected/im_09.jpg,12,15,2,27,Bill Gates,Bill\nGates,1,352.61271696822,141.045086787288,,0.110598400273375,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Arnold Schwarzenegger/selected/im_12.jpg,12,16,2,27,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,355.128344240557,142.051337696223,,0.0152970614653896,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Brad Pitt/selected/im_10.jpg,11,9,2,28,Brad Pitt,Brad\nPitt,1,370.005876213696,148.002350485478,,0.00156037469514558,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Brad Pitt/selected/im_10.jpg,11,10,2,28,Brad Pitt,Brad\nPitt,1,372.52154283759,149.008617135036,,0.00143932589162432,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Bill Clinton/selected/im_16.jpg,11,11,2,28,Bill Clinton,Bill\nClinton,1,375.037194490782,150.014877796313,,0.250079130843915,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Michelle Hunziker/selected/im_24.jpg,11,12,2,28,Michelle Hunziker,Michelle\nHunziker,1,377.553022798238,151.021209119295,,0.13517943453553,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Cameron Diaz/selected/im_32.jpg,11,13,2,28,Cameron Diaz,Cameron\nDiaz,1,380.068588049104,152.027435219641,,0.120186492151333,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Mike Tyson/selected/im_11.jpg,11,14,2,28,Mike Tyson,Mike\nTyson,1,382.584298729629,153.033719491852,,0.0840861456863422,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Rihanna/selected/im_08 (1).jpg,11,15,2,28,Rihanna,Rihanna,1,385.099950810557,154.039980324223,,0.0488318576499296,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Rihanna/selected/im_08 (1).jpg,11,16,2,28,Rihanna,Rihanna,1,387.615634543821,155.046253817528,,0.212906026776182,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_10.jpg,1,9,2,29,Matt Damon,Matt\nDamon,1,402.509836605501,161.0039346422,,0.00158774968986108,4
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_30.jpg,1,10,2,29,Giorgia Meloni,Giorgia\nMeloni,1,405.025602891484,162.010241156593,,0.284102399588846,4
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_65.jpg,1,11,2,29,Angelino Alfano,Angelino\nAlfano,1,407.541223747808,163.016489499123,,0.208135933958147,4
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_48.jpg,1,12,2,29,Paris Hilton,Paris\nHilton,1,410.056930578725,164.02277223149,,0.312966337311082,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_15.jpg,1,13,2,29,Brad Pitt,Brad\nPitt,1,412.572644681124,165.02905787245,,0.61695624278218,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_31.jpg,1,14,2,29,Rihanna,Rihanna,1,415.088260832371,166.035304332948,,0.22146841182257,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_13.jpg,1,15,2,29,Tom Cruise,Tom\nCruise,1,417.604001454297,167.041600581719,,0.845690149280017,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_15.jpg,1,16,2,29,George Bush,George\nBush,1,420.119672355533,168.047868942213,,0.845124684546136,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_05.jpg,9,9,2,30,Romano Prodi,Romano\nProdi,1,435.013882116429,174.005552846572,,0.00151931220352708,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_09.jpg,9,10,2,30,Filippo Inzaghi,Filippo\nInzaghi,1,437.529724966851,175.01188998674,,0.918641943624607,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_19.jpg,9,11,2,30,Matt Damon,Matt\nDamon,1,440.04523375679,176.018093502716,,0.912918431070466,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_05.jpg,9,12,2,30,Tom Cruise,Tom\nCruise,1,442.560906368964,177.024362547585,,0.617178236879226,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_14.jpg,9,13,2,30,Sabrina Ferilli,Sabrina\nFerilli,1,445.076599084648,178.030639633859,,0.881755421532034,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_10.jpg,9,14,2,30,Brad Pitt,Brad\nPitt,1,447.592298644082,179.036919457633,,0.30663287565767,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_24.jpg,9,15,2,30,Michelle Hunziker,Michelle\nHunziker,1,450.1080354164,180.04321416656,,0.631155310321446,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_28.jpg,9,16,2,30,Michael Jackson,Michael\nJackson,1,452.623690491467,181.049476196587,,0.474965995123966,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Notre Dame.jpg,15,9,2,31,Notre Dame,Notre\nDame,2,467.517908807049,187.00716352282,,0.00153856024553534,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Notre Dame.jpg,15,10,2,31,Notre Dame,Notre\nDame,2,470.033650712177,188.013460284871,,0.00142734933069733,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Palazzo vecchio.jpg,15,11,2,31,Palazzo vecchio,Palazzo\nvecchio,2,472.549239916164,189.019695966466,,0.00145814619918383,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Palazzo vecchio.jpg,15,12,2,31,Palazzo vecchio,Palazzo\nvecchio,2,475.064987381838,190.025994952735,,0.0673219556010736,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Tower Bridge.jpg,15,13,2,31,Tower Bridge,Tower\nBridge,2,477.580651439326,191.03226057573,,0.0114722614316634,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Duomo di Milano.jpg,15,14,2,31,Duomo di Milano,Duomo\ndi Milano,2,480.096277856196,192.038511142478,,0.135316309508198,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Versailles.jpg,15,15,2,31,Versailles,Versailles,2,482.612024038667,193.044809615467,,0.120139013644803,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte di Brooklyn .jpg,15,16,2,31,Ponte di Brooklyn,Ponte\ndi Brooklyn,2,485.127650883272,194.051060353309,,0.0446973779889959,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_15.jpg,5,9,2,32,Michael Jackson,Michael\nJackson,1,500.02200735703,200.008802942812,,0.00149664228592883,11
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_69.jpg,5,10,2,32,Fiorello,Fiorello,1,502.537562342273,201.015024936909,,0.72583942854726,1
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_05.jpg,5,11,2,32,Barack Obama,Barack\nObama,1,505.05321741734,202.021286966936,,0.469618033277584,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_12.jpg,5,12,2,32,Johnny Depp,Johnny\nDepp,1,507.56891056076,203.027564224304,,0.315406561443524,1
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_16.jpg,5,13,2,32,Bill Clinton,Bill\nClinton,1,510.084626374097,204.033850549639,,0.860159544890848,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_30.jpg,5,14,2,32,Roberto Maroni,Roberto\nMaroni,1,512.600278455024,205.040111382009,,0.36400787031107,4
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_28.jpg,5,15,2,32,George Bush,George\nBush,1,515.115996407032,206.046398562813,,0.408827580306934,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_15.jpg,5,16,2,32,Sabrina Ferilli,Sabrina\nFerilli,1,517.631684845374,207.05267393815,,0.653307669275819,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_42.jpg,10,17,3,33,Angelina Jolie,Angelina\nJolie,1,12.5116403610082,5.00465614440327,,1.18555412977457,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_45.jpg,10,18,3,33,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,15.2272154497623,6.09088617990492,,0.482138243723057,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_68.jpg,10,19,3,33,Angelino Alfano,Angelino\nAlfano,1,17.7428846400617,7.09715385602467,,0.666875828736011,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/Silvio Berlusconi_2.jpg,10,20,3,33,Silvio Berlusconi,Silvio\nBerlusconi,1,20.2586248342532,8.10344993370127,,0.711906411736891,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_16.jpg,10,21,3,33,Bill Clinton,Bill\nClinton,1,22.7742448351082,9.10969793404329,,0.696500705761537,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_59.jpg,10,22,3,33,Fiorello,Fiorello,1,25.2899533769623,10.1159813507849,,0.6810924333804,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_20.jpg,10,23,3,33,Paolo Bonolis,Paolo\nBonolis,1,27.8056546473335,11.1222618589334,,0.652598485820818,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_09.jpg,10,24,3,33,Sandra Bullock,Sandra\nBullock,1,30.3213225544296,12.1285290217718,,0.586886094358306,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_06.jpg,5,17,3,34,Michelle Obama,Michelle\nObama,1,45.0157423328628,18.0062969331451,,0.00150690790906083,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_09.jpg,5,18,3,34,Bill Gates,Bill\nGates,1,47.5312737927197,19.0125095170879,,0.937357457547478,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_73.jpg,5,19,3,34,Angelino Alfano,Angelino\nAlfano,1,50.0469673638736,20.0187869455494,,0.933520680952824,4
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_08.jpg,5,20,3,34,Jim Carrey,Jim\nCarrey,1,52.5626921596304,21.0250768638522,,0.908295478848231,1
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_04.jpg,5,21,3,34,Mike Tyson,Mike\nTyson,1,55.0783515120411,22.0313406048164,,0.432686599085173,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_31.jpg,5,22,3,34,Hillary Clinton,Hillary\nClinton,1,57.5941939347276,23.0376775738911,,0.377017836520281,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_43.jpg,5,23,3,34,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,60.1097044356047,24.0438817742419,,0.741836263313417,22
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_49.jpg,5,24,3,34,Matteo Renzi,Matteo\nRenzi,1,62.625441635656,25.0501766542624,,0.856083664827565,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_05.jpg,2,17,3,35,Julia Roberts,Julia\nRoberts,1,77.5197061465415,31.0078824586166,,0.00153556610621308,1
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_16 (1).jpg,2,18,3,35,Rihanna,Rihanna,1,80.0352966337314,32.0141186534926,,0.367026391206309,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_85.jpg,2,19,3,35,George Bush,George\nBush,1,82.5510145857397,33.0204058342959,,0.431127507592464,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_16.jpg,2,20,3,35,Brad Pitt,Brad\nPitt,1,85.066649557295,34.026659822918,,0.315418538004451,1
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_49.jpg,2,21,3,35,Matteo Salvini,Matteo\nSalvini,1,87.5823448393858,35.0329379357543,,0.540597972540127,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_100.jpg,2,22,3,35,Cameron Diaz,Cameron\nDiaz,1,90.0980550921768,36.0392220368707,,0.764436887805459,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_08 (1).jpg,2,23,3,35,George Clooney,George\nClooney,1,92.6137610676251,37.04550442705,,0.869450361435156,1
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_38.jpg,2,24,3,35,Giorgio Napolitano,Giorgio\nNapolitano,1,95.1294097266782,38.0517638906713,,0.523824372299714,4
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Giorgia Meloni/selected/im_24.jpg,8,17,3,36,Giorgia Meloni,Giorgia\nMeloni,1,110.006962658797,44.0027850635186,,0.00151332392306358,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Michelle Hunziker/selected/im_27.jpg,8,18,3,36,Michelle Hunziker,Michelle\nHunziker,1,112.522672483853,45.0090689935412,,0.932941956456489,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Giorgio Napolitano/selected/im_06.jpg,8,19,3,36,Giorgio Napolitano,Giorgio\nNapolitano,1,115.038451601865,46.0153806407459,,0.747825398862915,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Justin Bieber/selected/im_08.jpg,8,20,3,36,Justin Bieber,Justin\nBieber,1,117.554065614441,47.0216262457765,,0.672378202660184,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Jim Carrey/selected/im_18.jpg,8,21,3,36,Jim Carrey,Jim\nCarrey,1,120.069695025451,48.0278780101802,,0.356806535781288,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Robin Williams/selected/im_14.jpg,8,22,3,36,Robin Williams,Robin\nWilliams,1,122.585372342702,49.0341489370807,,0.10130630052663,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Matteo Renzi/selected/im_19.jpg,8,23,3,36,Matteo Renzi,Matteo\nRenzi,1,125.101050943153,50.0404203772614,,0.865194405236252,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/George Clooney/selected/im_13.jpg,8,24,3,36,George Clooney,George\nClooney,1,127.616738953761,51.0466955815045,,0.330059455067385,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Jim Carrey/selected/im_51 (1).jpg,12,17,3,37,Jim Carrey,Jim\nCarrey,1,142.510948286924,57.0043793147695,,0.00149920869262132,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Jim Carrey/selected/im_51 (1).jpg,12,18,3,37,Jim Carrey,Jim\nCarrey,1,145.026688481116,58.0106753924465,,0.00146798408786708,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Bill Clinton/selected/im_12.jpg,12,19,3,37,Bill Clinton,Bill\nClinton,1,147.54236708157,59.0169468326279,,0.0408221053094167,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Julia Roberts/selected/im_09.jpg,12,20,3,37,Julia Roberts,Julia\nRoberts,1,150.058099576544,60.0232398306176,,0.185683305529892,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Johnny Depp/selected/im_17.jpg,12,21,3,37,Johnny Depp,Johnny\nDepp,1,152.573702040293,61.0294808161172,,0.0104645194405748,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Silvio Berlusconi/selected/im_01.jpg,12,22,3,37,Silvio Berlusconi,Silvio\nBerlusconi,1,155.089396466915,62.035758586766,,0.0358629539332469,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Silvio Berlusconi/selected/im_01.jpg,12,23,3,37,Silvio Berlusconi,Silvio\nBerlusconi,1,157.605099448222,63.0420397792888,,0.0593776466066629,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Brad Pitt/selected/im_12.jpg,12,24,3,37,Brad Pitt,Brad\nPitt,1,160.12076051157,64.0483042046279,,0.0447132041572331,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arena di Verona.jpg,15,17,3,38,Arena di Verona,Arena\ndi Verona,2,175.014979254886,70.0059917019546,,0.00156850164785283,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arena di Verona.jpg,15,18,3,38,Arena di Verona,Arena\ndi Verona,2,177.530693357287,71.012277342915,,0.0349754052786011,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Sfinge.jpg,15,19,3,38,Sfinge,Sfinge,2,180.046460926472,72.0185843705887,,0.11941229308286,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Duomo di Trento.jpg,15,20,3,38,Duomo di Trento,Duomo\ndi Trento,2,182.562081355062,73.0248325420249,,0.144354335086973,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Muraglia Cinese.jpg,15,21,3,38,Muraglia Cinese,Muraglia\nCinese,2,185.077699644981,74.0310798579925,,0.468675734633507,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ara Pacis.jpg,15,22,3,38,Ara Pacis,Ara\nPacis,2,187.593440694641,75.0373762778563,,0.0328722357662627,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Campidoglio.jpg,15,23,3,38,Campidoglio,Campidoglio,2,190.109176611489,76.0436706445955,,0.377103383378198,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Castel SantAngelo.jpg,15,24,3,38,Castel SantAngelo,Castel\nSantAngelo,2,192.624770520552,77.049908208221,,0.841374310279207,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Acropoli.jpg,14,17,3,39,Acropoli,Acropoli,2,207.519091920099,83.0076367680394,,0.00152358954619558,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Duomo di San Marco.jpg,14,18,3,39,Duomo di San Marco,Duomo\ndi San Marco,2,210.034663159245,84.0138652636979,,0.0124004448443884,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Duomo di San Marco.jpg,14,19,3,39,Duomo di San Marco,Duomo\ndi San Marco,2,212.550363574147,85.0201454296588,,0.157307840368958,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Tower Bridge.jpg,14,20,3,39,Tower Bridge,Tower\nBridge,2,215.066059283973,86.0264237135893,,0.181586894221255,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piazza San Marco .jpg,14,21,3,39,Piazza San Marco,Piazza\nSan Marco,2,217.581769964499,87.0327079857994,,0.3663535651649,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/San Pietro.jpg,14,22,3,39,San Pietro,San\nPietro,2,220.097405363788,88.0389621455153,,0.872168612857422,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/San Pietro.jpg,14,23,3,39,San Pietro,San\nPietro,2,222.613090380256,89.0452361521024,,0.117344625519763,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mole Antonelliana.jpg,14,24,3,39,Mole Antonelliana,Mole\nAntonelliana,2,225.128790367425,90.0515161469699,,0.221112964627537,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_25.jpg,1,17,3,40,Sandra Bullock,Sandra\nBullock,1,240.006306514394,96.0025226057576,,1.56455365926558,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_100.jpg,1,18,3,40,Julia Roberts,Julia\nRoberts,1,243.105122545875,97.24204901835,,0.216133709738642,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_05.jpg,1,19,3,40,Laura Pausini,Laura\nPausini,1,245.620850763506,98.2483403054026,,0.339874246117688,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_13.jpg,1,20,3,40,Hillary Clinton,Hillary\nClinton,1,248.13651653193,99.2546066127721,,0.325163608365983,4
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_13.jpg,1,21,3,40,Sabrina Ferilli,Sabrina\nFerilli,1,250.6522464605,100.2608985842,,0.312102314042932,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_18.jpg,1,22,3,40,Bill Clinton,Bill\nClinton,1,253.16787501604,101.267150006416,,0.296469481158056,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_42.jpg,1,23,3,40,Angelina Jolie,Angelina\nJolie,1,255.683524958295,102.273409983318,,0.281296890372687,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_77.jpg,1,24,3,40,Fiorello,Fiorello,1,258.199218101715,103.279687240686,,0.265463022371478,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_02.jpg,7,17,3,41,Julia Roberts,Julia\nRoberts,1,272.510348603447,109.004139441379,,1.06541169425509,1
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_16.jpg,7,18,3,41,Michelle Obama,Michelle\nObama,1,275.109308781385,110.043723512554,,0.476301809316283,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_15.jpg,7,19,3,41,Bill Gates,Bill\nGates,1,277.625024166987,111.050009666795,,0.540323794859432,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_55.jpg,7,20,3,41,Angelina Jolie,Angelina\nJolie,1,280.140662988152,112.056265195261,,0.225200393515479,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_26.jpg,7,21,3,41,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,282.656404893281,113.062561957312,,0.549255314599577,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_85.jpg,7,22,3,41,Robin Williams,Robin\nWilliams,1,285.172085632405,114.068834252962,,0.574141751143543,1
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_04.jpg,7,23,3,41,Mike Tyson,Mike\nTyson,1,287.687833953548,115.075133581419,,0.298677873304769,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_11.jpg,7,24,3,41,Paolo Bonolis,Paolo\nBonolis,1,290.203458231747,116.081383292699,,0.762480003422752,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_04.jpg,4,17,3,42,Julia Roberts,Julia\nRoberts,1,305.014320971813,122.005728388725,,0.00150733564260008,1
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_38.jpg,4,18,3,42,Justin Bieber,Justin\nBieber,1,307.53000299414,123.012001197656,,0.556699174472669,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_11.jpg,4,19,3,42,Matteo Salvini,Matteo\nSalvini,1,310.045712819197,124.018285127679,,0.681157876726502,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_15.jpg,4,20,3,42,Filippo Inzaghi,Filippo\nInzaghi,1,312.561420077848,125.024568031139,,0.845953205867772,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/im_08.jpg,4,21,3,42,Silvio Berlusconi,Silvio\nBerlusconi,1,315.077094400959,126.030837760384,,0.309999144530593,4
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_19.jpg,4,22,3,42,Matt Damon,Matt\nDamon,1,317.592847854913,127.037139141965,,0.875036143546822,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_04.jpg,4,23,3,42,George Clooney,George\nClooney,1,320.108464861628,128.043385944651,,0.359194576329173,1
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_04.jpg,4,24,3,42,Rihanna,Rihanna,1,322.624137473801,129.04965498952,,0.663904358612854,2
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_45.jpg,6,17,3,43,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,337.518337824543,135.007335129817,,0.00153043329555658,2
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_16.jpg,6,18,3,43,Filippo Inzaghi,Filippo\nInzaghi,1,340.03405363788,136.013621455152,,0.535834723470543,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_10.jpg,6,19,3,43,Hillary Clinton,Hillary\nClinton,1,342.549732666069,137.019893066428,,0.819695025449619,3
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_07.jpg,6,20,3,43,Rihanna,Rihanna,1,345.065385174729,138.026154069892,,0.703865862526072,4
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_03.jpg,6,21,3,43,Michelle Hunziker,Michelle\nHunziker,1,347.58105949784,139.032423799136,,0.808382308909131,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_106.jpg,6,22,3,43,Julia Roberts,Julia\nRoberts,1,350.096791137345,140.038716454938,,0.75307712049289,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_10.jpg,6,23,3,43,Mike Tyson,Mike\nTyson,1,352.612443218272,141.044977287309,,,
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_14 (1).jpg,6,24,3,43,Bill Gates,Bill\nGates,1,355.128279224945,142.051311689978,,0.83171949185089,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Versailles.jpg,16,17,3,44,Versailles,Versailles,2,370.005721801616,148.002288720647,,0.00150819111149758,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Versailles.jpg,16,18,3,44,Versailles,Versailles,2,372.521455579795,149.008582231918,,0.00163779460126534,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/White House.jpg,16,19,3,44,White House,White\nHouse,2,375.037070875572,150.014828350229,,0.34382137816101,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Golden Gate.jpg,16,20,3,44,Golden Gate,Golden\nGate,2,377.552767013131,151.021106805253,,0.0487694084440591,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Golden Gate.jpg,16,21,3,44,Golden Gate,Golden\nGate,2,380.068428504213,152.027371401685,,0.00144232003003708,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Taj Mahal.jpg,16,22,3,44,Taj Mahal,Taj\nMahal,2,382.584112237478,153.033644894991,,0.0870050044904929,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Taj Mahal.jpg,16,23,3,44,Taj Mahal,Taj\nMahal,2,385.099799820352,154.039919928141,,0.00145900166717183,21
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Taj Mahal.jpg,16,24,3,44,Taj Mahal,Taj\nMahal,2,387.615492108303,155.046196843321,,0.0163082253293396,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_49.jpg,9,17,3,45,Matteo Renzi,Matteo\nRenzi,1,402.509750203174,161.00390008127,,1.6324188374183,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Mike Tyson/selected/im_11.jpg,9,18,3,45,Mike Tyson,Mike\nTyson,1,405.675118696266,162.270047478506,,0.297650455537223,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_15.jpg,9,19,3,45,Bill Gates,Bill\nGates,1,408.190837503743,163.276335001497,,0.281414089567988,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_22.jpg,9,20,3,45,Angelina Jolie,Angelina\nJolie,1,410.706508832714,164.282603533085,,0.265829162923183,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_19.jpg,9,21,3,45,Bill Clinton,Bill\nClinton,1,413.222175884342,165.288870353737,,0.251442320030037,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_05.jpg,9,22,3,45,Daniel Radcliffe,Daniel\nRadcliffe,1,415.737916506266,166.295166602506,,0.236079387483187,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_18.jpg,9,23,3,45,Hillary Clinton,Hillary\nClinton,1,418.253655844989,167.301462337996,,0.220293425723867,4
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_20.jpg,9,24,3,45,Robin Williams,Robin\nWilliams,1,420.76923264468,168.307693057872,,1.69707002010364,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Robin Williams/selected/im_20.jpg,11,17,3,46,Robin Williams,Robin\nWilliams,1,435.013686214123,174.005474485649,,0.00151204072062683,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Fiorello/selected/im_29.jpg,11,18,3,46,Fiorello,Fiorello,1,437.529387484495,175.011754993798,,0.00143419308005832,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Arnold Schwarzenegger/selected/im_01.jpg,11,19,3,46,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,440.045081483383,176.018032593353,,0.0622994995501358,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Arnold Schwarzenegger/selected/im_01.jpg,11,20,3,46,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,442.560737841653,177.024295136661,,0.126745797510011,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Matt Damon/selected/im_36.jpg,11,21,3,46,Matt Damon,Matt\nDamon,1,445.076448094444,178.030579237778,,0.610667693228606,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgia Meloni/selected/im_17.jpg,11,22,3,46,Giorgia Meloni,Giorgia\nMeloni,1,447.592168612858,179.036867445143,,0.00141195089599933,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Paris Hilton/selected/im_01.jpg,11,23,3,46,Paris Hilton,Paris\nHilton,1,450.107860473075,180.04314418923,,0.0795692715691985,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgio Napolitano/selected/im_x2.jpg,11,24,3,46,Giorgio Napolitano,Giorgio\nNapolitano,1,452.623538218059,181.049415287224,,0.684157577314181,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Daniel Radcliffe/selected/im_05.jpg,13,17,3,47,Daniel Radcliffe,Daniel\nRadcliffe,1,467.517813850037,187.007125540015,,0.00151760126573208,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Mike Tyson/selected/im_10.jpg,13,18,3,47,Mike Tyson,Mike\nTyson,1,470.033471063775,188.01338842551,,0.00143932589162432,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Fiorello/selected/im_59.jpg,13,19,3,47,Fiorello,Fiorello,1,472.549116728688,189.019646691475,,0.659482013772504,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Romano Prodi/selected/im_07.jpg,13,20,3,47,Romano Prodi,Romano\nProdi,1,475.064783780316,190.025913512126,,0.0104512596772111,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Filippo Inzaghi/selected/im_33.jpg,13,21,3,47,Filippo Inzaghi,Filippo\nInzaghi,1,477.580438855383,191.032175542153,,0.00148423799146258,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Michelle Obama/selected/im_06.jpg,13,22,3,47,Michelle Obama,Michelle\nObama,1,480.096200008556,192.038480003422,,0.00146242354276183,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Bill Clinton/selected/im_19.jpg,13,23,3,47,Bill Clinton,Bill\nClinton,1,482.611848239873,193.044739295949,,0.00143290987580258,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Johnny Depp/selected/im_27.jpg,13,24,3,47,Johnny Depp,Johnny\nDepp,1,485.127517430173,194.051006972069,,0.0476393344451935,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_02.jpg,3,17,3,48,Tom Cruise,Tom\nCruise,1,500.021749433253,200.008699773301,,1.08462038581638,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_10.jpg,3,18,3,48,Sabrina Ferilli,Sabrina\nFerilli,1,502.637382693872,201.054953077549,,0.698636810813696,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_06.jpg,3,19,3,48,Brad Pitt,Brad\nPitt,1,505.153057016981,202.061222806792,,0.802867102955133,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_19.jpg,3,20,3,48,Matteo Renzi,Matteo\nRenzi,1,507.668819453355,203.067527781342,,0.787569186020846,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_10.jpg,3,21,3,48,Laura Pausini,Laura\nPausini,1,510.18442533898,204.073770135592,,,
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelino Alfano/selected/im_68.jpg,3,22,3,48,Angelino Alfano,Angelino\nAlfano,1,512.700099662091,205.080039864836,,0.766454510458061,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_07.jpg,3,23,3,48,Giorgio Napolitano,Giorgio\nNapolitano,1,515.215791950041,206.086316780017,,1.97120834937414,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_59.jpg,3,24,3,48,Fiorello,Fiorello,1,518.714433038197,207.485773215279,,0.00144574190562707,21
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte dei Sospiri.jpg,15,25,4,49,Ponte dei Sospiri,Ponte\ndei Sospiri,2,12.5118212926118,5.00472851704471,,0.00156208563203108,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Acropoli.jpg,15,26,4,49,Acropoli,Acropoli,2,15.0274015141786,6.01096060567143,,0.00143932588980533,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Acropoli.jpg,15,27,4,49,Acropoli,Acropoli,2,17.5431194661869,7.01724778647476,,0.00146584541835182,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Torre di Pisa.jpg,15,28,4,49,Torre di Pisa,Torre\ndi Pisa,2,20.0588588049104,8.02354352196417,,0.00146413447873783,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Torre di Pisa.jpg,15,29,4,49,Torre di Pisa,Torre\ndi Pisa,2,22.5745900166803,9.02983600667212,,0.00650883271373459,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte di Rialto.jpg,15,30,4,49,Ponte di Rialto,Ponte\ndi Rialto,2,25.0901937636336,10.0360775054534,,0.00146584541653283,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte di Rialto.jpg,15,31,4,49,Ponte di Rialto,Ponte\ndi Rialto,2,27.6058941785359,11.0423576714144,,0.00146456221409608,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mart.jpg,15,32,4,49,Mart,Mart,2,30.1216228239009,12.0486491295604,,0.00147268916589383,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_51 (1).jpg,2,25,4,50,Jim Carrey,Jim\nCarrey,1,45.0157658582484,18.0063063432994,,0.00149835322372383,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_24.jpg,2,26,4,50,Giorgia Meloni,Giorgia\nMeloni,1,47.5314059626162,19.0125623850465,,0.18110355447061,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_17.jpg,2,27,4,50,Johnny Depp,Johnny\nDepp,1,50.0471341802458,20.0188536720983,,0.265029299798698,1
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_24.jpg,2,28,4,50,Robin Williams,Robin\nWilliams,1,52.5627725736758,21.0251090294703,,0.0496920313107694,1
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_57.jpg,2,29,4,50,Filippo Inzaghi,Filippo\nInzaghi,1,55.0785790666832,22.0314316266733,,0.894317977672472,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_14.jpg,2,30,4,50,Roberto Maroni,Roberto\nMaroni,1,57.5941716925445,23.0376686770178,,0.498651353778769,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_20.jpg,2,31,4,50,Paolo Bonolis,Paolo\nBonolis,1,60.1098498652627,24.0439399461051,,0.703002694725001,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_29.jpg,2,32,4,50,Britney Spears,Britney\nSpears,1,62.6255207664999,25.0502083066,,0.849141965012677,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Brad Pitt/selected/im_12.jpg,12,25,4,51,Brad Pitt,Brad\nPitt,1,77.5197523418447,31.0079009367379,,0.00150348603528982,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Romano Prodi/selected/im_07.jpg,12,26,4,51,Romano Prodi,Romano\nProdi,1,80.0353997176953,32.0141598870781,,0.00144317549893458,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Romano Prodi/selected/im_07.jpg,12,27,4,51,Romano Prodi,Romano\nProdi,1,82.5510979939263,33.0204391975705,,0.0565319303641445,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Cameron Diaz/selected/im_79.jpg,12,28,4,51,Cameron Diaz,Cameron\nDiaz,1,85.0668959322466,34.0267583728986,,0.00147012276102032,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgia Meloni/selected/im_49.jpg,12,29,4,51,Giorgia Meloni,Giorgia\nMeloni,1,87.5824855639676,35.032994225587,,0.00145942940253008,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Mike Tyson/selected/im_41.jpg,12,30,4,51,Mike Tyson,Mike\nTyson,1,90.0981675862949,36.039267034518,,0.00146969502566208,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Laura Pausini/selected/im_15.jpg,12,31,4,51,Laura Pausini,Laura\nPausini,1,92.6138226613621,37.0455290645448,,0.00144788057696132,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/George Clooney/selected/im_13.jpg,12,32,4,51,George Clooney,George\nClooney,1,95.1295380469655,38.0518152187862,,0.212438085462054,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Giorgio Napolitano/selected/im_x2.jpg,11,25,4,52,Giorgio Napolitano,Giorgio\nNapolitano,1,110.007084135335,44.0028336541342,,0.00152701141996658,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Tom Cruise/selected/im_01.jpg,11,26,4,52,Tom Cruise,Tom\nCruise,1,112.522758030711,45.0091032122844,,0.00146028487142758,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Laura Pausini/selected/im_17.jpg,11,27,4,52,Laura Pausini,Laura\nPausini,1,115.038440480772,46.0153761923088,,0.0772761880325561,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/George Bush/selected/im_03.jpg,11,28,4,52,George Bush,George\nBush,1,117.554187090978,47.0216748363913,,0.00146498994945432,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/George Bush/selected/im_03.jpg,11,29,4,52,George Bush,George\nBush,1,120.069876812524,48.0279507250096,,0.336244492920741,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Sabrina Ferilli/selected/im_03.jpg,11,30,4,52,Sabrina Ferilli,Sabrina\nFerilli,1,122.585553274306,49.0342213097225,,0.0203729843033216,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Sabrina Ferilli/selected/im_03.jpg,11,31,4,52,Sabrina Ferilli,Sabrina\nFerilli,1,125.101238290774,50.0404953163095,,0.364539971769773,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Filippo Inzaghi/selected/im_15.jpg,11,32,4,52,Filippo Inzaghi,Filippo\nInzaghi,1,127.616891654903,51.0467566619613,,0.0685978869933024,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_12.jpg,10,25,4,53,Romano Prodi,Romano\nProdi,1,142.5111163865,57.0044465546001,,1.1982073655854,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_04.jpg,10,26,4,53,Sabrina Ferilli,Sabrina\nFerilli,1,145.243371401684,58.0973485606737,,0.516771461569078,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_17.jpg,10,27,4,53,Roberto Maroni,Roberto\nMaroni,1,147.759059412292,59.1036237649168,,0.700861884597543,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_32.jpg,10,28,4,53,Michelle Obama,Michelle\nObama,1,150.274759827194,60.1099039308778,,0.38491466700907,4
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_17.jpg,10,29,4,53,Tom Cruise,Tom\nCruise,1,152.790402925702,61.116161170281,,0.669908892594322,4
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_107.jpg,10,30,4,53,Cameron Diaz,Cameron\nDiaz,1,155.306109328885,62.1224437315541,,0.652246460498645,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_67.jpg,10,31,4,53,Giorgia Meloni,Giorgia\nMeloni,1,157.821796056289,63.1287184225155,,0.636153385516081,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_14.jpg,10,32,4,53,Robin Williams,Robin\nWilliams,1,160.337479789554,64.1349919158216,,0.280729286965652,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_02.jpg,3,25,4,54,Paris Hilton,Paris\nHilton,1,175.015104153299,70.0060416613196,,0.00149364814569708,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_03.jpg,3,26,4,54,Sandra Bullock,Sandra\nBullock,1,177.530745113136,71.0122980452543,,0.768500363574276,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_07.jpg,3,27,4,54,Bill Gates,Bill\nGates,1,180.046446383505,72.018578553402,,0.673017237691965,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_10.jpg,3,28,4,54,Filippo Inzaghi,Filippo\nInzaghi,1,182.562167329654,73.0248669318615,,0.637221010309077,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_35.jpg,3,29,4,54,Michelle Obama,Michelle\nObama,1,185.077823687925,74.03112947517,,0.581549253603953,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/Silvio Berlusconi_8.jpg,3,30,4,54,Silvio Berlusconi,Silvio\nBerlusconi,1,187.593575003208,75.0374300012831,,0.46360879421627,4
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_37.jpg,3,31,4,54,Jim Carrey,Jim\nCarrey,1,190.109176611488,76.0436706445951,,0.607744557080878,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_50.jpg,3,32,4,54,Johnny Depp,Johnny\nDepp,1,192.624958295906,77.0499833183625,,0.312246888233858,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_23.jpg,4,25,4,55,Donald Trump,Donald\nTrump,1,207.51910603533,83.007642414132,,0.00152957782665908,4
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Angelina Jolie/selected/im_29.jpg,4,26,4,55,Angelina Jolie,Angelina\nJolie,1,210.034834680695,84.013933872278,,0.925506651266915,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_08.jpg,4,27,4,55,Michelle Obama,Michelle\nObama,1,212.550482912015,85.0201931648058,,0.909763035202559,1
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_49.jpg,4,28,4,55,Giorgia Meloni,Giorgia\nMeloni,1,215.066157662859,86.0264630651436,,0.314108815602594,4
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_18.jpg,4,29,4,55,Daniel Radcliffe,Daniel\nRadcliffe,1,217.581808888319,87.0327235553275,,0.658040121476006,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_32.jpg,4,30,4,55,Michelle Hunziker,Michelle\nHunziker,1,220.097525129389,88.0390100517558,,0.582453483895733,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_07.jpg,4,31,4,55,Romano Prodi,Romano\nProdi,1,222.613227255228,89.0452909020911,,0.367076436117713,4
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_13.jpg,4,32,4,55,Brad Pitt,Brad\nPitt,1,225.128876342016,90.0515505368065,,0.352028743744086,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/im_01.jpg,5,25,4,56,Silvio Berlusconi,Silvio\nBerlusconi,1,240.006445100304,96.0025780401214,,0.00173146841189009,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_17.jpg,5,26,4,56,Romano Prodi,Romano\nProdi,1,242.52210103084,97.0088404123358,,0.735365071217529,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_17.jpg,5,27,4,56,Giorgia Meloni,Giorgia\nMeloni,1,245.037802728944,98.0151210915778,,0.279401171990685,4
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_11.jpg,5,28,4,56,Daniel Radcliffe,Daniel\nRadcliffe,1,247.553532229778,99.0214128919113,,0.346081953890462,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_33.jpg,5,29,4,56,Filippo Inzaghi,Filippo\nInzaghi,1,250.069167201334,100.027666880534,,0.670588134649734,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_15.jpg,5,30,4,56,George Clooney,George\nClooney,1,252.584847512724,101.03393900509,,0.614869754908796,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_15.jpg,5,31,4,56,Paris Hilton,Paris\nHilton,1,255.100529107318,102.040211642927,,0.861909833611207,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_59.jpg,5,32,4,56,Matteo Salvini,Matteo\nSalvini,1,257.616214123786,103.046485649514,,0.525902733221301,4
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_31.jpg,6,25,4,57,Roberto Maroni,Roberto\nMaroni,1,272.510441421788,109.004176568715,,0.00149193720972107,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Robin Williams/selected/im_10.jpg,6,26,4,57,Robin Williams,Robin\nWilliams,1,275.026122588648,110.010449035459,,0.23919158218996,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_11.jpg,6,27,4,57,Brad Pitt,Brad\nPitt,1,277.541895718379,111.016758287352,,0.74364344069545,3
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_29.jpg,6,28,4,57,Fiorello,Fiorello,1,280.057515719234,112.023006287694,,0.547369434108987,4
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_17.jpg,6,29,4,57,George Clooney,George\nClooney,1,282.573282860687,113.029313144275,,0.592041575771873,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_12.jpg,6,30,4,57,Bill Clinton,Bill\nClinton,1,285.088886607638,114.035554643055,,0.238576072544674,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_05.jpg,6,31,4,57,Romano Prodi,Romano\nProdi,1,287.604564352623,115.041825741049,,0.603217845075051,3
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_05.jpg,6,32,4,57,Justin Bieber,Justin\nBieber,1,290.120268189401,116.04810727576,,0.847022541598562,4
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mole Antonelliana.jpg,14,25,4,58,Mole Antonelliana,Mole\nAntonelliana,2,305.014550237393,122.005820094957,,1.02131271654071,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piazza San Pietro.jpg,14,26,4,58,Piazza San Pietro,Piazza\nSan Pietro,2,307.563451387998,123.025380555199,,0.181485093460651,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Teatro dell Opera.jpg,14,27,4,58,Teatro dell Opera,Teatro\ndell Opera,2,310.079142392746,124.031656957098,,0.0860092390594218,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Golden Gate.jpg,14,28,4,58,Golden Gate,Golden\nGate,2,312.594845374053,125.037938149621,,0.00147568330612557,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Golden Gate.jpg,14,29,4,58,Golden Gate,Golden\nGate,2,315.110484195216,126.044193678087,,0.0350079130857921,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Altare della Patria.jpg,14,30,4,58,Altare della Patria,Altare\ndella Patria,2,317.6262055691,127.05048222764,,0.00145173018427158,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Duomo di Milano.jpg,14,31,4,58,Duomo di Milano,Duomo\ndi Milano,2,320.141849950811,128.056739980324,,0.00147097822809883,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Duomo di Milano.jpg,14,32,4,58,Duomo di Milano,Duomo\ndi Milano,2,322.657545232902,129.063018093161,,0.158586765901418,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_12.jpg,9,25,4,59,Sandra Bullock,Sandra\nBullock,1,337.518450318661,135.007380127464,,0.00148637666279683,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_49.jpg,9,26,4,59,Giorgia Meloni,Giorgia\nMeloni,1,340.034109671073,136.013643868429,,0.283298259122603,4
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_16.jpg,9,27,4,59,Jim Carrey,Jim\nCarrey,1,342.549878095726,137.01995123829,,0.246968647075846,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_68.jpg,9,28,4,59,Johnny Depp,Johnny\nDepp,1,345.065500235254,138.026200094102,,0.271402540742201,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_11.jpg,9,29,4,59,Barack Obama,Barack\nObama,1,347.581198511483,139.032479404593,,0.676317635483429,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Julia Roberts/selected/im_13.jpg,9,30,4,59,Julia Roberts,Julia\nRoberts,1,350.096862568971,140.038745027588,,0.240440566320103,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_20.jpg,9,31,4,59,Roberto Maroni,Roberto\nMaroni,1,352.612562128405,141.045024851362,,0.265081055647897,4
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_10.jpg,9,32,4,59,Laura Pausini,Laura\nPausini,1,355.128256982762,142.051302793105,,0.756726977200742,3
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Johnny Depp/selected/im_27.jpg,13,25,4,60,Johnny Depp,Johnny\nDepp,1,370.005762436374,148.00230497455,,0.00152915009311982,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Matteo Salvini/selected/im_31.jpg,13,26,4,60,Matteo Salvini,Matteo\nSalvini,1,372.521467556353,149.008587022541,,0.00146370674519858,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Roberto Maroni/selected/im_25.jpg,13,27,4,60,Roberto Maroni,Roberto\nMaroni,1,375.037172676333,150.014869070533,,0.00145215791962983,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Sabrina Ferilli/selected/im_15.jpg,13,28,4,60,Sabrina Ferilli,Sabrina\nFerilli,1,377.552825184994,151.021130073997,,0.0944544249123282,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Paris Hilton/selected/im_39.jpg,13,29,4,60,Paris Hilton,Paris\nHilton,1,380.068599170196,152.027439668078,,0.0792574532715662,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Paris Hilton/selected/im_39.jpg,13,30,4,60,Paris Hilton,Paris\nHilton,1,382.584229008939,153.033691603575,,0.463817100817323,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Paris Hilton/selected/im_39.jpg,13,31,4,60,Paris Hilton,Paris\nHilton,1,385.099897771504,154.039959108602,,0.407742846142355,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Bill Gates/selected/im_17.jpg,13,32,4,60,Bill Gates,Bill\nGates,1,387.615590059455,155.046236023782,,0.852266564010279,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_72.jpg,7,25,4,61,Matteo Renzi,Matteo\nRenzi,1,402.509822062535,161.003928825014,,0.00153000556019833,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_11.jpg,7,26,4,61,Tom Cruise,Tom\nCruise,1,405.025505795798,162.010202318319,,0.343251208349102,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_07.jpg,7,27,4,61,Daniel Radcliffe,Daniel\nRadcliffe,1,407.541194234142,163.016477693657,,0.501808460583561,1
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_24.jpg,7,28,4,61,Barack Obama,Barack\nObama,1,410.05687839514,164.022751358056,,0.906784721330041,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_03.jpg,7,29,4,61,Giorgio Napolitano,Giorgio\nNapolitano,1,412.572516360837,165.029006544335,,0.880398220624556,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_14.jpg,7,30,4,61,Paris Hilton,Paris\nHilton,1,415.088208221052,166.035283288421,,0.865615723512747,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_27.jpg,7,31,4,61,Bill Clinton,Bill\nClinton,1,417.60391205783,167.041564823132,,0.829698447323608,4
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_07.jpg,7,32,4,61,Brad Pitt,Brad\nPitt,1,420.119623166089,168.047849266436,,0.404136618331904,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Stonehenge.jpg,16,25,4,62,Stonehenge,Stonehenge,2,435.013846186748,174.005538474699,,0.00149493134813383,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte di Brooklyn .jpg,16,26,4,62,Ponte di Brooklyn,Ponte\ndi Brooklyn,2,437.529537191496,175.011814876599,,0.00144360323247383,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Louvre.jpg,16,27,4,62,Louvre,Louvre,2,440.045158903289,176.018063561316,,0.0301257538812933,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte vecchio.jpg,16,28,4,62,Ponte vecchio,Ponte\nvecchio,2,442.560905941229,177.024362376492,,0.0753659266865725,22
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piazza di Spagna.jpg,16,29,4,62,Piazza di Spagna,Piazza\ndi Spagna,2,445.07660421746,178.030641686984,,0.00147696650674334,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Acropoli.jpg,16,30,4,62,Acropoli,Acropoli,2,447.592265280808,179.036906112323,,0.274240557766461,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piazza San Pietro.jpg,16,31,4,62,Piazza San Pietro,Piazza\nSan Pietro,2,450.107910517985,180.043164207194,,0.00146584541653283,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Tour Eiffel.jpg,16,32,4,62,Tour Eiffel,Tour\nEiffel,2,452.623585696565,181.049434278626,,0.632571538559205,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_43.jpg,1,25,4,63,Bill Gates,Bill\nGates,1,467.517933615638,187.007173446255,,1.55238461867339,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_13.jpg,1,26,4,63,Paolo Bonolis,Paolo\nBonolis,1,470.599941828135,188.239976731254,,0.362521921382722,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_50.jpg,1,27,4,63,Michael Jackson,Michael\nJackson,1,473.115606741092,189.246242696437,,0.276194448008027,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_09.jpg,1,28,4,63,Johnny Depp,Johnny\nDepp,1,475.63134864622,190.252539458488,,0.221396124727107,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/Silvio Berlusconi_2.jpg,1,29,4,63,Silvio Berlusconi,Silvio\nBerlusconi,1,478.146976774027,191.258790709611,,0.305722657085425,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_08.jpg,1,30,4,63,Daniel Radcliffe,Daniel\nRadcliffe,1,480.662687026819,192.265074810728,,0.289593652423719,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_25.jpg,1,31,4,63,Roberto Maroni,Roberto\nMaroni,1,483.17836947688,193.271347790752,,0.27446554600283,4
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_13.jpg,1,32,4,63,Romano Prodi,Romano\nProdi,1,485.694037811711,194.277615124684,,0.25916848453744,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Sabrina Ferilli/selected/im_08.jpg,8,25,4,64,Sabrina Ferilli,Sabrina\nFerilli,1,500.021882458615,200.008752983446,,1.18137559348179,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Paris Hilton/selected/im_18.jpg,8,26,4,64,Paris Hilton,Paris\nHilton,1,502.737423756362,201.094969502545,,,
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Matt Damon/selected/im_21.jpg,8,27,4,64,Matt Damon,Matt\nDamon,1,505.253128448607,202.101251379443,,0.00149792548836558,31
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Sandra Bullock/selected/im_04.jpg,8,28,4,64,Sandra Bullock,Sandra\nBullock,1,507.768795927968,203.107518371187,,0.186778733052051,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Rihanna/selected/im_10.jpg,8,29,4,64,Rihanna,Rihanna,1,510.284495487404,204.113798194961,,0.411478677446212,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Barack Obama/selected/im_01.jpg,8,30,4,64,Barack Obama,Barack\nObama,1,512.800195474571,205.120078189828,,0.65569314341883,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Michael Jackson/selected/im_15.jpg,8,31,4,64,Michael Jackson,Michael\nJackson,1,515.315819752768,206.126327901107,,0.10231361478327,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Roberto Maroni/selected/im_37.jpg,8,32,4,64,Roberto Maroni,Roberto\nMaroni,1,517.831517173532,207.132606869413,,0.246710295563389,4
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Fiorello/selected/im_77.jpg,8,33,5,65,Fiorello,Fiorello,1,12.5116827067013,5.00467308268053,,0.00153471063640609,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Arnold Schwarzenegger/selected/im_11.jpg,8,34,5,65,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,15.0271893579702,6.01087574318808,,0.352695153769673,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Laura Pausini/selected/im_05.jpg,8,35,5,65,Laura Pausini,Laura\nPausini,1,17.5428970443554,7.01715881774217,,0.517718893024721,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Bill Clinton/selected/im_18.jpg,8,36,5,65,Bill Clinton,Bill\nClinton,1,20.0585743616066,8.02342974464264,,0.521478677446794,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Filippo Inzaghi/selected/im_14.jpg,8,37,5,65,Filippo Inzaghi,Filippo\nInzaghi,1,22.5743000128314,9.02972000513255,,0.286212840583175,3
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Cameron Diaz/selected/im_14.jpg,8,38,5,65,Cameron Diaz,Cameron\nDiaz,1,25.0899769023472,10.0359907609389,,0.341342230207374,2
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Brad Pitt/selected/im_12.jpg,8,39,5,65,Brad Pitt,Brad\nPitt,1,27.605623422729,11.0422493690916,,0.425862098463767,1
+Che lavoro fa?,1 = Presentatore TV/attore\n2 = Cantante/Musicista\n3 = Politico/Sportivo\n4 = Altro/Non so,People/Michelle Obama/selected/im_10.jpg,8,40,5,65,Michelle Obama,Michelle\nObama,1,30.1213020231826,12.048520809273,,0.530062449206525,3
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Romano Prodi/selected/im_30.jpg,11,33,5,66,Romano Prodi,Romano\nProdi,1,45.0155695282083,18.0062278112833,,0.00152701141996658,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Romano Prodi/selected/im_30.jpg,11,34,5,66,Romano Prodi,Romano\nProdi,1,47.5312126267163,19.0124850506865,,0.00152530048399058,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Roberto Maroni/selected/im_30.jpg,11,35,5,66,Roberto Maroni,Roberto\nMaroni,1,50.046920740835,20.018768296334,,0.0959998289072246,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Michelle Obama/selected/im_15.jpg,11,36,5,66,Michelle Obama,Michelle\nObama,1,52.5626207280038,21.0250482912015,,0.00145771846473508,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Angelino Alfano/selected/im_12.jpg,11,37,5,66,Angelino Alfano,Angelino\nAlfano,1,55.0782903460367,22.0313161384147,,0.00146712861896958,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Donald Trump/selected/im_57.jpg,11,38,5,66,Donald Trump,Donald\nTrump,1,57.5939544035245,23.0375817614098,,0.192045425381366,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Donald Trump/selected/im_57.jpg,11,39,5,66,Donald Trump,Donald\nTrump,1,60.1096830488896,24.0438732195558,,0.0371003892378212,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Paolo Bonolis/selected/im_16.jpg,11,40,5,66,Paolo Bonolis,Paolo\nBonolis,1,62.6253359852853,25.0501343941141,,0.100695495957552,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arco di Costantino.jpg,14,33,5,67,Arco di Costantino,Arco\ndi Costantino,2,77.5195102442358,31.0078040976943,,0.00150049189505808,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arco di Costantino.jpg,14,34,5,67,Arco di Costantino,Arco\ndi Costantino,2,80.0352187860899,32.014087514436,,0.00145386885742482,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/White House.jpg,14,35,5,67,White House,White\nHouse,2,82.5509820779334,33.0203928311734,,0.0799863125030242,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/White House.jpg,14,36,5,67,White House,White\nHouse,2,85.0665999401172,34.0266399760469,,0.0449202275558491,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte dei Sospiri.jpg,14,37,5,67,Ponte dei Sospiri,Ponte\ndei Sospiri,2,87.582371786646,35.0329487146584,,0.00145001924829558,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte dei Sospiri.jpg,14,38,5,67,Ponte dei Sospiri,Ponte\ndei Sospiri,2,90.0979383207141,36.0391753282856,,0.205052397450345,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mart.jpg,14,39,5,67,Mart,Mart,2,92.6136541340511,37.0454616536204,,0.00145044698365382,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mart.jpg,14,40,5,67,Mart,Mart,2,95.1293318790358,38.0517327516143,,0.00143633174957358,1
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_15.jpg,7,33,5,68,Donald Trump,Donald\nTrump,1,110.006899354121,44.0027597416483,,0.00150648017552157,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_105.jpg,7,34,5,68,Jim Carrey,Jim\nCarrey,1,112.522561700671,45.0090246802683,,0.713649856708798,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_15.jpg,7,35,5,68,Laura Pausini,Laura\nPausini,1,115.038218486676,46.0152873946703,,0.358076478893054,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_01.jpg,7,36,5,68,Filippo Inzaghi,Filippo\nInzaghi,1,117.553918473843,47.0215673895371,,0.441762693015335,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_11.jpg,7,37,5,68,George Clooney,George\nClooney,1,120.069605628983,48.0278422515934,,0.58691774669569,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_55.jpg,7,38,5,68,Britney Spears,Britney\nSpears,1,122.585297916934,49.0341191667736,,0.41217802301253,2
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_15.jpg,7,39,5,68,George Bush,George\nBush,1,125.101039394327,50.0404157577308,,0.398523033491074,3
+Quanti fatti ricordi?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_13.jpg,7,40,5,68,Romano Prodi,Romano\nProdi,1,127.616655117839,51.0466620471358,,0.362998845117545,4
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Filippo Inzaghi/selected/im_57.jpg,12,33,5,69,Filippo Inzaghi,Filippo\nInzaghi,1,142.511009880662,57.0044039522647,,0.00153727704491757,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/George Bush/selected/im_28.jpg,12,34,5,69,George Bush,George\nBush,1,145.026548184267,58.0106192737068,,0.00145515205986158,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Roberto Maroni/selected/im_16.jpg,12,35,5,69,Roberto Maroni,Roberto\nMaroni,1,147.542258864793,59.016903545917,,0.00148637666279683,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Roberto Maroni/selected/im_16.jpg,12,36,5,69,Roberto Maroni,Roberto\nMaroni,1,150.057966978911,60.0231867915645,,0.00144659737452457,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Michelle Hunziker/selected/im_29.jpg,12,37,5,69,Michelle Hunziker,Michelle\nHunziker,1,152.573648145772,61.0294592583086,,0.00146114034032507,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Michelle Obama/selected/im_16.jpg,12,38,5,69,Michelle Obama,Michelle\nObama,1,155.089344711065,62.0357378844259,,0.0330600111210515,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Angelina Jolie/selected/im_30.jpg,12,39,5,69,Angelina Jolie,Angelina\nJolie,1,157.604971983403,63.0419887933611,,0.00147097822809883,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Paris Hilton/selected/im_15.jpg,12,40,5,69,Paris Hilton,Paris\nHilton,1,160.120717310407,64.0482869241627,,0.168556824499319,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Silvio Berlusconi/selected/Silvio Berlusconi_6.jpg,9,33,5,70,Silvio Berlusconi,Silvio\nBerlusconi,1,175.014990803713,70.0059963214851,,0.00152701142178557,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_69.jpg,9,34,5,70,Fiorello,Fiorello,1,177.530565892466,71.0122263569865,,0.399553873134209,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Obama/selected/im_11.jpg,9,35,5,70,Michelle Obama,Michelle\nObama,1,180.046215834724,72.0184863338895,,0.72316694469373,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_13.jpg,9,36,5,70,Britney Spears,Britney\nSpears,1,182.56192865392,73.0247714615682,,0.447704350057393,1
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_05.jpg,9,37,5,70,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,185.07760597117,74.0310423884679,,0.372214380427977,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_03.jpg,9,38,5,70,Paolo Bonolis,Paolo\nBonolis,1,187.593302536463,75.0373210145852,,0.237248385303246,2
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_05.jpg,9,39,5,70,George Bush,George\nBush,1,190.108971299029,76.0435885196115,,0.281790923480003,3
+Volto distintivo?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_43.jpg,9,40,5,70,Giorgio Napolitano,Giorgio\nNapolitano,1,192.624717909233,77.0498871636933,,0.785370204030187,3
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mart.jpg,15,33,5,71,Mart,Mart,2,207.518947773642,83.0075791094569,,0.00149150947436283,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piazza di Spagna.jpg,15,34,5,71,Piazza di Spagna,Piazza\ndi Spagna,2,210.034624235424,84.0138496941698,,0.00153471063822508,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Tour Eiffel.jpg,15,35,5,71,Tour Eiffel,Tour\nEiffel,2,212.550289576115,85.0201158304459,,0.00145857393363258,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Arco di Trionfo.jpg,15,36,5,71,Arco di Trionfo,Arco\ndi Trionfo,2,215.066003678514,86.0264014714055,,0.00146156807386433,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/White House.jpg,15,37,5,71,White House,White\nHouse,2,217.581668163735,87.0326672654941,,0.00146712861896958,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Mole Antonelliana.jpg,15,38,5,71,Mole Antonelliana,Mole\nAntonelliana,2,220.097333076692,88.0389332306768,,0.00146114034032507,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Louvre.jpg,15,39,5,71,Louvre,Louvre,2,222.612974891996,89.0451899567983,,0.0114183669102204,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Piazza San Marco .jpg,15,40,5,71,Piazza San Marco,Piazza\nSan Marco,2,225.128759142819,90.0515036571276,,0.11540485050682,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_29.jpg,3,33,5,72,Michelle Hunziker,Michelle\nHunziker,1,240.006412164763,96.0025648659052,,0.00150947431393433,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgia Meloni/selected/im_67.jpg,3,34,5,72,Giorgia Meloni,Giorgia\nMeloni,1,242.522059540614,97.0088238162454,,0.445164891571039,4
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Bush/selected/im_05.jpg,3,35,5,72,George Bush,George\nBush,1,245.037584584456,98.0150338337822,,0.589765173874184,4
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_16.jpg,3,36,5,72,Donald Trump,Donald\nTrump,1,247.553410325505,99.021364130202,,0.553857307841099,4
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_12.jpg,3,37,5,72,Romano Prodi,Romano\nProdi,1,250.068970015825,100.02758800633,,0.598486248341942,3
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paolo Bonolis/selected/im_08.jpg,3,38,5,72,Paolo Bonolis,Paolo\nBonolis,1,252.584681124084,101.033872449634,,0.562189144104195,2
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michael Jackson/selected/im_33.jpg,3,39,5,72,Michael Jackson,Michael\nJackson,1,255.100323794857,102.040129517943,,0.746797553360011,1
+Quanto amichevole?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/George Clooney/selected/im_16.jpg,3,40,5,72,George Clooney,George\nClooney,1,257.616042602334,103.046417040934,,0.771464989948072,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_07.jpg,2,33,5,73,Sabrina Ferilli,Sabrina\nFerilli,1,272.51028016596,109.004112066384,,0.00154668719915207,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Paris Hilton/selected/im_26.jpg,2,34,5,73,Paris Hilton,Paris\nHilton,1,275.025939946105,110.010375978442,,0.422257153855753,2
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_16.jpg,2,35,5,73,Matteo Renzi,Matteo\nRenzi,1,277.541585611018,111.016634244407,,0.366702168614211,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Fiorello/selected/im_18.jpg,2,36,5,73,Fiorello,Fiorello,1,280.057280465375,112.02291218615,,0.451287907950245,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_16.jpg,2,37,5,73,Daniel Radcliffe,Daniel\nRadcliffe,1,282.573025792377,113.029210316951,,0.495374481371982,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Gates/selected/im_16.jpg,2,38,5,73,Bill Gates,Bill\nGates,1,285.088653064715,114.035461225886,,0.241941058215161,4
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_13.jpg,2,39,5,73,Matt Damon,Matt\nDamon,1,287.604347063603,115.041738825441,,1.94705077205981,3
+Quanto attraente?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Romano Prodi/selected/im_30.jpg,2,40,5,73,Romano Prodi,Romano\nProdi,1,291.086297531972,116.434519012789,,0.00148381025792332,4
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Tour Eiffel.jpg,16,33,5,74,Tour Eiffel,Tour\nEiffel,2,305.014247829247,122.005699131699,,0.00149707001946808,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Fontana di Trevi.jpg,16,34,5,74,Fontana di Trevi,Fontana\ndi Trevi,2,307.529897343769,123.011958937508,,0.00146541768299357,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Fontana di Trevi.jpg,16,35,5,74,Fontana di Trevi,Fontana\ndi Trevi,2,310.045591342658,124.018236537063,,0.0566743658837368,21
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Fontana di Trevi.jpg,16,36,5,74,Fontana di Trevi,Fontana\ndi Trevi,2,312.561286197013,125.024514478805,,0.00150434150236833,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Sfinge.jpg,16,37,5,74,Sfinge,Sfinge,2,315.076976774028,126.030790709611,,0.065321014584697,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Sfinge.jpg,16,38,5,74,Sfinge,Sfinge,2,317.59271097994,127.037084391976,,0.0496535352249339,1
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Ponte dei Sospiri.jpg,16,39,5,74,Ponte dei Sospiri,Ponte\ndei Sospiri,2,320.108387013986,128.043354805595,,0.00145600752694008,2
+Stesso nome?,1 = nome diverso\n2 = Stesso nome,Monuments/Muraglia Cinese.jpg,16,40,5,74,Muraglia Cinese,Muraglia\nCinese,2,322.624021130074,129.04960845203,,0.00145643526229833,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Tom Cruise/selected/im_21.jpg,5,33,5,75,Tom Cruise,Tom\nCruise,1,337.518335258137,135.007334103255,,0.00150776337795833,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_03.jpg,5,34,5,75,Laura Pausini,Laura\nPausini,1,340.033906497283,136.013562598913,,0.551829847299814,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_22.jpg,5,35,5,75,Britney Spears,Britney\nSpears,1,342.549621882885,137.019848753154,,0.456233371829512,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_x2.jpg,5,36,5,75,Giorgio Napolitano,Giorgio\nNapolitano,1,345.065289789982,138.026115915993,,0.38252534325693,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Michelle Hunziker/selected/im_11.jpg,5,37,5,75,Michelle Hunziker,Michelle\nHunziker,1,347.580971812309,139.032388724924,,0.348630394799329,2
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_36.jpg,5,38,5,75,Matt Damon,Matt\nDamon,1,350.096673510414,140.038669404166,,0.493227682964061,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_64.jpg,5,39,5,75,Donald Trump,Donald\nTrump,1,352.61237520852,141.044950083408,,0.706174772232771,3
+Quanto familiare?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_78.jpg,5,40,5,75,Cameron Diaz,Cameron\nDiaz,1,355.128028144916,142.051211257966,,0.832464604987763,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Roberto Maroni/selected/im_10.jpg,4,33,5,76,Roberto Maroni,Roberto\nMaroni,1,370.022296933144,148.008918773258,,0.00152358954619558,4
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sabrina Ferilli/selected/im_11.jpg,4,34,5,76,Sabrina Ferilli,Sabrina\nFerilli,1,372.537917789468,149.015167115787,,0.563407331364942,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_46.jpg,4,35,5,76,Giorgio Napolitano,Giorgio\nNapolitano,1,375.053608794216,150.021443517687,,0.787120920484085,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_12.jpg,4,36,5,76,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,377.569316480602,151.027726592241,,0.891745583643569,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_69.jpg,4,37,5,76,Jim Carrey,Jim\nCarrey,1,380.084971555669,152.033988622267,,0.375169596647538,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_72.jpg,4,38,5,76,Matteo Renzi,Matteo\nRenzi,1,382.6006997733,153.04027990932,,0.319323752084529,3
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_68.jpg,4,39,5,76,Johnny Depp,Johnny\nDepp,1,385.116391205782,154.046556482313,,0.544173403481182,2
+Quanto affidabile?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Bill Clinton/selected/im_19.jpg,4,40,5,76,Bill Clinton,Bill\nClinton,1,387.63204029257,155.052816117028,,0.629085931819645,4
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_17.jpg,6,33,5,77,Barack Obama,Barack\nObama,1,402.509656957098,161.003862782839,,0.00157106805272633,2
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matt Damon/selected/im_09.jpg,6,34,5,77,Matt Damon,Matt\nDamon,1,405.025295350528,162.010118140211,,0.396043457803898,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Sandra Bullock/selected/im_18.jpg,6,35,5,77,Sandra Bullock,Sandra\nBullock,1,407.540928183413,163.016371273365,,0.220870439283317,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Daniel Radcliffe/selected/im_02.jpg,6,36,5,77,Daniel Radcliffe,Daniel\nRadcliffe,1,410.056620471363,164.022648188545,,0.231270798578407,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_27.jpg,6,37,5,77,Johnny Depp,Johnny\nDepp,1,412.57233329056,165.028933316224,,0.156083237092389,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_07.jpg,6,38,5,77,Laura Pausini,Laura\nPausini,1,415.088115402712,166.035246161085,,0.0796800547504972,1
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_114.jpg,6,39,5,77,Cameron Diaz,Cameron\nDiaz,1,417.603675520766,167.041470208306,,0.764097266777753,3
+Nome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/a_im_37.jpg,6,40,5,77,Giorgio Napolitano,Giorgio\nNapolitano,1,420.119378929809,168.047751571923,,0.611473972367094,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Giorgio Napolitano/selected/im_xx.jpg,1,33,5,78,Giorgio Napolitano,Giorgio\nNapolitano,1,435.013628897728,174.005451559091,,1.41007228709532,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Cameron Diaz/selected/im_16.jpg,1,34,5,78,Cameron Diaz,Cameron\nDiaz,1,437.962417554214,175.184967021686,,0.491446169638948,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Donald Trump/selected/im_18.jpg,1,35,5,78,Donald Trump,Donald\nTrump,1,440.478116685914,176.191246674366,,0.478565806921324,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Arnold Schwarzenegger/selected/im_13.jpg,1,36,5,78,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,442.993804696522,177.197521878609,,0.462016339450201,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Justin Bieber/selected/im_32.jpg,1,37,5,78,Justin Bieber,Justin\nBieber,1,445.50946875401,178.203787501604,,0.446652979169812,3
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Salvini/selected/im_09.jpg,1,38,5,78,Matteo Salvini,Matteo\nSalvini,1,448.025198254843,179.210079301937,,0.433657128192863,2
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Jim Carrey/selected/im_59.jpg,1,39,5,78,Jim Carrey,Jim\nCarrey,1,450.540923906068,180.216369562427,,0.417883142990831,1
+Memoria remota?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Filippo Inzaghi/selected/im_03.jpg,1,40,5,78,Filippo Inzaghi,Filippo\nInzaghi,1,453.056558877624,181.22262355105,,0.411698532871014,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Hillary Clinton/selected/im_13.jpg,10,33,5,79,Hillary Clinton,Hillary\nClinton,1,467.517627357885,187.007050943154,,0.00156251336557034,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Matteo Renzi/selected/im_16.jpg,10,34,5,79,Matteo Renzi,Matteo\nRenzi,1,470.033385516916,188.013354206766,,0.528481543266025,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Brad Pitt/selected/im_04.jpg,10,35,5,79,Brad Pitt,Brad\nPitt,1,472.548990547071,189.019596218829,,0.912587364728097,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Rihanna/selected/im_15.jpg,10,36,5,79,Rihanna,Rihanna,1,475.064618247145,190.025847298858,,0.89708327986591,2
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Barack Obama/selected/im_19.jpg,10,37,5,79,Barack Obama,Barack\nObama,1,477.580308396424,191.03212335857,,0.881518456735648,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Laura Pausini/selected/im_36.jpg,10,38,5,79,Laura Pausini,Laura\nPausini,1,480.096026348432,192.038410539373,,0.865728217630021,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Johnny Depp/selected/im_09.jpg,10,39,5,79,Johnny Depp,Johnny\nDepp,1,482.611702810214,193.044681124086,,0.650063732409762,3
+Cognome comune?,1 = Moltissimo\n2 = Molto\n3 = Poco\n4 = Pochissimo,People/Britney Spears/selected/im_13.jpg,10,40,5,79,Britney Spears,Britney\nSpears,1,485.127369434107,194.050947773643,,0.834770520552411,3
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Bill Gates/selected/im_17.jpg,13,33,5,80,Bill Gates,Bill\nGates,1,500.021633089524,200.008653235809,,0.00153171649799333,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Matt Damon/selected/im_36.jpg,13,34,5,80,Matt Damon,Matt\nDamon,1,502.537283031779,201.014913212712,,0.08553915907396,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Matt Damon/selected/im_36.jpg,13,35,5,80,Matt Damon,Matt\nDamon,1,505.05303905214,202.021215620856,,0.00148381025610433,1
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Paolo Bonolis/selected/im_13.jpg,13,36,5,80,Paolo Bonolis,Paolo\nBonolis,1,507.568732195559,203.027492878224,,0.02440266906342,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Arnold Schwarzenegger/selected/im_13.jpg,13,37,5,80,Arnold Schwarzenegger,Arnold\nSchwarzenegger,1,510.084331237435,204.033732494974,,0.00144830831050058,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Justin Bieber/selected/im_38.jpg,13,38,5,80,Justin Bieber,Justin\nBieber,1,512.600055605457,205.040022242183,,0.00145643526229833,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Silvio Berlusconi/selected/im_08.jpg,13,39,5,80,Silvio Berlusconi,Silvio\nBerlusconi,1,515.115732494973,206.046292997989,,0.00151161298708757,2
+Stesso nome?,1 = Nome diverso\n2 = Stesso nome,People/Silvio Berlusconi/selected/im_08.jpg,13,40,5,80,Silvio Berlusconi,Silvio\nBerlusconi,1,517.631421788785,207.052568715514,,0.00144445870137133,21
