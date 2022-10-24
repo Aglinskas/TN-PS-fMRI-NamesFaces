@@ -1,4 +1,4 @@
-ofn = '/Users/aidasaglinskas/Desktop/lol/'
+ofn = '../Data/behav_data/'
 
 load(fullfile(ofn,'faces_mat_RT.mat'))
 behav.RT_faces = mat_RT
@@ -9,7 +9,7 @@ behav.resp_faces = mat_resp
 load(fullfile(ofn,'words_mat_resp.mat'))
 behav.resp_words = mat_resp
 
-%%
+%% Mean Reaction time
 
 behav.RT_words(behav.RT_words < .5) = NaN; 
 behav.resp_words(behav.RT_words < .5) = NaN; 
@@ -19,19 +19,20 @@ nanmean(behav.RT_words(:))
 
 disp( sprintf('RT names: M=%.4f sec,%.4f sec',nanmean(behav.RT_words(:)),nanstd(behav.RT_words(:))) )
 disp( sprintf('RT faces: M=%.4f sec,%.4f sec',nanmean(behav.RT_faces(:)),nanstd(behav.RT_faces(:))) )
-%%
+%% Reaction time by task
+
 
 task_RT = squeeze(mean(nanmean(behav.RT_words,1),3))
 %task_RT = squeeze(mean(nanstd(behav.RT_words,1),3))
 task_std = squeeze(nanstd(nanmean(behav.RT_words,3),1))
 
 [Y I] = sort(task_RT)
-tasks = {'First memory' 'Attractiveness' 'Friendliness' 'Trustworthiness' 'Familiarity' 'First name' 'How many facts' 'Occupation' 'Distinctiveness' 'Last Name'}
+tasks = {'First memory' 'Attractiveness' 'Friendliness' 'Trustworthiness' 'Familiarity' 'Common Name' 'How many facts' 'Occupation' 'Distinctiveness' 'Common Surname'}
 for i = 1:10
 disp(sprintf('%s RT = %.4f, SD = %.4f',tasks{I(i)},task_RT(I(i)),task_std(I(i))   ))
 end
 
-%%
+%% RT histograms
 figure(1)
 histogram(behav.RT_words(:))
 
@@ -163,17 +164,25 @@ clc;disp(sprintf('M = %.2f%%,SD = %.2f,SEM = %.2f',mean(acc)*100,std(acc)*100,st
 
 %% Familiarity
 
-inMat = behav.resp_faces
+inMat = behav.resp_words
 %inMat = behav.resp_words
 fammat = squeeze(inMat(:,5,:));
 avgfam = nanmean(fammat);
-histogram(nanmean(fammat))
+
 disp(4-mean(avgfam))
 %disp(max(abs(zscore(avgfam))))
 
+histogram(zscore(avgfam),40)
+morebins
 
-sprintf(['M = %.0f%%, SD = %.0f%%'],mean(mean(fammat<4,2))*100,std(mean(fammat<4,2)*100  ))
+%[Y I] = sort(avgfam)
+%names(I)
 
+
+
+
+line = sprintf(['M = %.0f%%, SD = %.0f%% indicated at least some familiarity'],mean(mean(fammat<4,2))*100,std(mean(fammat<4,2)*100  ))
+disp(line)
 %% Face - Name Response consistency
 
 rdm_faces = pdist(squeeze(nanmean(behav.resp_faces,1)))
@@ -190,7 +199,36 @@ m1 = m1(t,:)
 m2 = m2(t,:)
 
 corr(m1(:),m2(:),'type','Spearman')
+%% Bar plot RT
+
+ord = [2 9      3 4     1 5    7 8   6 10 ]
+tasks = {'First memory' 'Attractiveness' 'Friendliness' 'Trustworthiness' 'Familiarity' 'Common Name' 'How many facts' 'Occupation' 'Distinctiveness' 'Common Surname'}
+tasks = tasks(ord)
+f = figure(1);clf
+
+rtmat = squeeze(nanmean(nanmean(behav.RT_words,3),1))
+rtmat = rtmat*1000
+rtmat = rtmat(ord)
+
+b = bar(rtmat)
+
+ylabel('RT (msec)')
+xticklabels(tasks)
+f.Color = [1 1 1]
+box off
+f.CurrentAxes.LineWidth = 3
+f.CurrentAxes.FontSize = 16
+f.CurrentAxes.FontWeight = 'bold'
+b.LineWidth = 3
+title('Reaction Time by Task')
+
+
+
+exportgraphics(f, '../Figures/RT_bargraph.png');
 %%
+
+
+
 
 
 
