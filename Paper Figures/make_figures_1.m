@@ -92,6 +92,19 @@ f.CurrentAxes.LineWidth = 5
 
 ofn = '/Users/aidasaglinskas/Desktop/TN-PS-fMRI-NamesFaces/Paper Figures/tdend.pdf'
 exportgraphics(f, ofn);
+%%
+
+load('/Users/aidasaglinskas/Desktop/TN-PS-fMRI-NamesFaces/Code/aBeta_May2021.mat')
+
+
+
+aBeta.wmat
+
+
+
+
+
+
 
 
 

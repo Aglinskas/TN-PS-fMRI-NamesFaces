@@ -32,18 +32,6 @@ for i = 1:10
 disp(sprintf('%s RT = %.4f, SD = %.4f',tasks{I(i)},task_RT(I(i)),task_std(I(i))   ))
 end
 
-
-%%
-T = array2table(squeeze(nanmean(behav.RT_words,3)))
-T.Properties.VariableNames = tasks
-writetable(T,'../Data/behav_data/RT_table_full.csv')
-
-
-
-%%
-
-
-
 %% RT histograms
 figure(1)
 histogram(behav.RT_words(:))
@@ -229,31 +217,15 @@ rtmat = rtmat(ord)
 % b = bar(rtmat)
 % b,e = errorbar(rtmat,rtmat_std,'r.')
 % e.LineWidth = 2
-colors = {[220 108 48]
- [220 108 48]
- [43 82 148]
- [43 82 148]
- [213 76 141]
- [213 76 141]
- [100 60 131]
- [100 60 131]
- [0 132 59]
- [0 132 59]}
 
 
-hold on
 for i = 1:10
-b = bar(i,rtmat(i))
-b.LineWidth = 3
-b.FaceColor = colors{i}/255
-b,e = errorbar(i,rtmat(i),rtmat_std(i),'r.')
-e.LineWidth = 3
-
-
+b = bar(rtmat(i))
+b,e = errorbar(rtmat,rtmat_std,'r.')
 end
 
-xticks(1:10)
-xlim([0 11])
+
+
 
 
 ylabel('RT (msec)')
@@ -263,6 +235,7 @@ box off
 f.CurrentAxes.LineWidth = 3
 f.CurrentAxes.FontSize = 16
 f.CurrentAxes.FontWeight = 'bold'
+b.LineWidth = 3
 title('Reaction Time by Task')
 
 %legend({'Mean','SE'})
@@ -337,10 +310,6 @@ b(5).FaceColor = [0 132 59] / 255 % Nominal
 
 [b(1:5).LineWidth] = deal(1.5)
 [e(1:5).LineWidth] = deal(1.5)
-
-
-
-
 box off
 f.CurrentAxes.FontSize = 14
 f.CurrentAxes.FontWeight = 'bold'
